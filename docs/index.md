@@ -2,76 +2,102 @@
 
 Welcome to the classes generative design @ HSLU / Digital Ideation. This is the main page for the class, you will find a list of resources available below as well as some other information to help with this 3 weeks workshop. It is advised to download / clone this repo at the beginning of the class and eventually keep it updated. All assignments / exercises should be done by students in their own private classroom repo.
 
-## Resources
+
+## Content
 
 - [Main github repo][refMainRepo]
     - Slides
     - Notebooks
-    - Sample code 
 - [Classroom gihub repo][refClassRepo] (1x per students)
+    - Sample code
     - Starter code + gh pages
-- [Class portfolio][refClassPortfolio]
-    - TBC
 
-[refMainRepo]:https://github.com/digitalideation/BA_222_GENCG_H1801
-[refClassRepo]:http://github.com/digitalideation/BA_222_GENCG_H1801_students
-[refClassPortfolio]:#
-
-## Students
-
-1. [Aytac][refStud01] - [Results][refRes01]
-2. [Orell][refStud02] - [Results][refRes02]
-3. [Yannick][refStud03] - [Results][refRes03]
-4. [Marlon][refStud04] - [Results][refRes04]
-5. [Patrick][refStud05] - [Results][refRes05]
-6. [Florian][refStud06] - [Results][refRes06]
-
-[refStud01]:https://github.com/MrTouch
-[refStud02]:https://github.com/Taereth
-[refStud03]:https://github.com/yannickbaettig
-[refStud04]:https://github.com/voidCAPITALism
-[refStud05]:https://github.com/arcs-
-[refStud06]:https://github.com/Fl0ps
-[refRes01]:https://digitalideation.github.io/gencg-18-MrTouch/ 
-[refRes02]:https://digitalideation.github.io/gencg-18-Taereth/ 
-[refRes03]:https://digitalideation.github.io/gencg-18-yannickbaettig
-[refRes04]:https://digitalideation.github.io/gencg-18-voidCAPITALism/ 
-[refRes05]:https://digitalideation.github.io/gencg-18-arcs-/
-[refRes06]:https://digitalideation.github.io/gencg-18-Fl0ps/ 
-
-## WEEK 01
-
-For this first week we will focus on the basis. We will be looking at the core functions of p5.js, and some simple useful maths technics. We will also experiment with shapes, patterns and agents (intelligent and non intelligent). We will then learn how color spaces are created and how to generate them dynamically.
-- [Intro][refSlides00]
-- [Slides][refSlides01]
-- [Notes part 01: Setup, Basis, Shapes, Patterns, Agents][refNotes01]
-- [Notes part 02: Colors][refNotes02]
-
-## WEEK 02
-
-During the second week ot the workshop we will adapt what we've learned so far and play with new concepts. We will first learn how to use noise and random values, we will continue developing our agents and adapt them to create generative typography.
-- [Slides][refSlides02]
-- [Notes part 03: ][refNotes03]
-
-## WEEK 03
-
-The last week of the workshop is dedicated to the "open assignment". You will have to pick one of the themes we discussed back in week 01 and create your own implementation of it. Feel free to work in group or on your own for this assignment.
+[refMainRepo]:https://github.com/digitalideation/BA_222_GENCG_H1901
+[refClassRepo]:http://github.com/digitalideation/BA_222_GENCG_H1901_students
 
 
-## Evaluation
+## Suggested themes
 
-Evaluation criteria are:
-- Quality of the result
-- Legibility and reusability of the code
-
-There will be small exercises throughout the weeks and one main final project.
+During the 3 weeks class we will be looking at the core functions of p5.js and three.js, and some simple useful maths technics. We will experiment with shapes, patterns and agents (intelligent and non intelligent). We will then learn how color spaces are created and how to generate them dynamically. We will then adapt what we've learned and play with new concepts such as noise and random values, we will continue developing our agents and adapt them to create generative typography
+- [Intro Presentation][refSlides00]
+- [Slides - Part 01][refSlides01]
+- [Slides - Part 02][refSlides02]
+- [Notes - Part 01: Setup, Basis, Shapes, Patterns, Agents][refNotes01]
+- [Notes - Part 02: Colors][refNotes02]
+- [Notes - Part 03][refNotes03]
 
  [refSlides00]: slides/week00.html
  [refSlides01]: slides/week01.html
  [refSlides02]: slides/week02.html
- [refSlides03]: slides/week03.html
  [refNotes01]: notebooks/week01.html
  [refNotes02]: notebooks/week02.html
  [refNotes03]: notebooks/week03.html
- [refNotes04]: notebooks/04.html
- [refNotes05]: notebooks/05.html
+
+
+## Tools
+- :pencil2: [P5.js](https://p5js.org/)
+- :red_circle: [Three.js](https://threejs.org/)
+- :point_up_2: [TouchDesigner](https://derivative.ca/)
+- :flags: [Glitch](https://glitch.com/)
+- :computer: [Codepen](https://codepen.io/)
+
+
+## Evaluation
+
+Evaluation criteria:
+- Research, Documentation, Quality of the final result
+
+Deliverables:
+- Presentation + Source code + Documentation
+
+
+## References
+
+### :books: Resources
+- [Getting started with P5.js](https://p5js.org/get-started/) (intro)
+- [Getting started with three js](https://threejs.org/docs/index.html) (intro)
+- [Three.js fundamentals](https://threejsfundamentals.org/) (articles)
+- [Three.js demos](https://three-demos.glitch.me/) (demo)
+- [P5.js demos](https://p5-demos.glitch.me/) (demo)
+- [Canvas demos](http://youpi.io) (demo)
+- [Webgl demos](https://github.com/mattdesl/workshop-webgl-glsl/) (demo)
+- [Designing programs](https://designingprograms.bitbucket.io/index.html) (course)
+- [The coding train :rainbow:](https://thecodingtrain.com/) (course)
+- [Kadenze P5.js](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info) (course)
+- [Nature of code](https://natureofcode.com/book/) (book)
+- [Shaders tutorials](https://thebookofshaders.com/) (tutorials)
+
+### :bird: Who to follow
+- [Lia Something](https://twitter.com/liasomething)
+- [Jo](https://twitter.com/jn3008)
+- [Etienne Jacob](https://twitter.com/etiennejcb)
+- [Keita Yamada](https://twitter.com/P5_keita)
+- [Lolo Armdz](https://twitter.com/loloarmdz)
+- [Generate Me](https://twitter.com/generateme_blog)
+- [Tim Rodenbroeker](https://twitter.com/timrodenbroeker)
+- [:honeybee::bomb:](https://twitter.com/beesandbombs)
+- [Martin](https://twitter.com/qiuyinsen)
+- [Manoloide](https://twitter.com/manoloidee)
+- [Articulation copy (2)](https://twitter.com/mxsage)
+- [Kjetil Golid](https://twitter.com/kGolid)
+- [Guillaume Pelletier-Auger](https://twitter.com/PelletierAuger)
+- [grgrdvrt](https://twitter.com/grgrdvrt)
+- [Marcin Ignac](https://twitter.com/marcinignac)
+- [Nicolas Barradeau](https://twitter.com/nicoptere)
+- [Matt DesLauriers](https://twitter.com/mattdesl)
+- [Frederik Vanhoutte](https://www.patreon.com/wblut)
+- [Daniel Shiffman](https://twitter.com/shiffman)
+- [Zach Lieberman](https://twitter.com/zachlieberman)
+
+### :space_invader: Other
+- [Artnome - Blog on digital art](https://artnome.com)
+- [Big list of resources](https://github.com/terkelg/awesome-creative-coding)
+- [Useful Tips to generate infinite loops](https://www.youtube.com/watch?v=c6K-wJQ77yQ)
+- [Generating things with code](https://medium.com/@nicoptere/generating-things-with-code-ddbca45ceddc)
+- [Gallery of experiments](http://csh.bz/)
+- [Tumblr](https://30000fps.com/)
+- [Making noise](https://www.blog.drewcutchins.com/blog/2018-8-5-lets-make-some-noise)
+- [History](http://www.verostko.com/algorist.html)
+
+### :wrench: Other tools
+- [Pex (untested)](http://pex.gl/)
