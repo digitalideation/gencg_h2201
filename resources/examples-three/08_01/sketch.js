@@ -13,11 +13,16 @@ init();
 animate();
 
 function restart() {
-  // while (scene.children.length) {
-  //   scene.children.remove(scene.children[0]);
-  // }
+
+  // Remove all objects
+  while (scene.children.length) {
+    scene.children.pop();
+  }
   scene.dispose();
-  createObjects();
+
+  // Create lights and objects again
+  createLights();
+  createObjects(objectsCount);
 
 }
 
@@ -29,13 +34,11 @@ function init() {
   renderer = new THREE.WebGLRenderer();
 
   // Create and add light
-  light = new THREE.DirectionalLight(0xffffff, 1);
-  light.position.set(1, 1, 1).normalize();
-  scene.add(light);
+  createLights();
 
   // Create and add objects
   objectsCount = 1000;
-  createObjects();
+  createObjects(objectsCount);
 
   // Orbit Controls
   // controls = new THREE.OrbitControls( camera, renderer.domElement );
@@ -55,7 +58,6 @@ function animate() {
 
   // Add your animations here
   stepSize = (direction === 'up') ? .5 : -.5;
-
   for (const object of objects) {
     object.position.y += Math.random() * stepSize;
   }
@@ -80,7 +82,7 @@ function onKeydown() {
 
 }
 
-function createObjects() {
+function createObjects(objectsCount) {
 
   objects = [];
   let geometry = new THREE.BoxBufferGeometry(20, 20, 20);
@@ -107,6 +109,14 @@ function createObjects() {
     scene.add(object);
 
   }
+}
+
+function createLights() {
+
+  light = new THREE.DirectionalLight(0xffffff, 1);
+  light.position.set(1, 1, 1).normalize();
+  scene.add(light);
+
 }
 
 // resize canvas when the window is resized
