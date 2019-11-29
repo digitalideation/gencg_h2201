@@ -12,20 +12,6 @@ let objects, objectsCount;
 init();
 animate();
 
-function restart() {
-
-  // Remove all objects
-  while (scene.children.length) {
-    scene.children.pop();
-  }
-  scene.dispose();
-
-  // Create lights and objects again
-  createLights();
-  createObjects(objectsCount);
-
-}
-
 function init() {
 
   // Create scene renderer and camera
@@ -49,6 +35,7 @@ function init() {
 
   // Misc listeners
   document.addEventListener('keydown', onKeydown, false);
+  window.addEventListener( 'resize', onWindowResized, false );
 
 }
 
@@ -74,11 +61,25 @@ function render() {
 
 }
 
-function onKeydown() {
+function restart() {
 
-  if (event.keyCode === 32) restart() // 32 = Space
-  if (event.keyCode === 38) direction = 'up' // 38 = ArrowUp
-  if (event.keyCode === 40) direction = 'down' // 40 = ArrowDown
+  // Remove all objects
+  while (scene.children.length) {
+    scene.children.pop();
+  }
+  scene.dispose();
+
+  // Create lights and objects again
+  createLights();
+  createObjects(objectsCount);
+
+}
+
+function createLights() {
+
+  light = new THREE.DirectionalLight(0xffffff, 1);
+  light.position.set(1, 1, 1).normalize();
+  scene.add(light);
 
 }
 
@@ -111,34 +112,24 @@ function createObjects(objectsCount) {
   }
 }
 
-function createLights() {
+function onKeydown() {
 
-  light = new THREE.DirectionalLight(0xffffff, 1);
-  light.position.set(1, 1, 1).normalize();
-  scene.add(light);
+  if (event.keyCode === 32) restart() // 32 = Space
+  if (event.keyCode === 38) direction = 'up' // 38 = ArrowUp
+  if (event.keyCode === 40) direction = 'down' // 40 = ArrowDown
 
 }
 
-// resize canvas when the window is resized
-function windowResized() {
+function onWindowResized() {
+
   renderer.setSize(window.innerWidth, window.innerHeight);
   camera.aspect = window.innerWidth / window.innerHeight;
   camera.updateProjectionMatrix();
+
 }
 
 // Tools
 // Int conversion
 function toInt(value) {
   return ~~value;
-}
-
-// Timestamp
-function timestamp() {
-  return Date.now();
-}
-
-// Thumb
-function saveThumb(w, h) {
-  let img = get(width / 2 - w / 2, height / 2 - h / 2, w, h);
-  save(img, 'thumb.jpg');
 }
