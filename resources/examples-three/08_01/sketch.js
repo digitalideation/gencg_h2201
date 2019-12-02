@@ -44,7 +44,7 @@ function animate() {
   requestAnimationFrame(animate);
 
   // Add your animations here
-  stepSize = (direction === 'up') ? .5 : -.5;
+  stepSize = (direction === 'up') ? -.5 : .5;
   for (const object of objects) {
     object.position.y += Math.random() * stepSize;
   }
