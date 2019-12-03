@@ -32,7 +32,7 @@ function easeInOutSine(t, b, c, d) {
 }
 
 /*
-f number of floor
+f number of floors
 1 Floor:        5.85
 2 Floors:       8.38
 3 Floors:       10.88
@@ -43,32 +43,7 @@ f number of floor
 8 Floors:       23.38
 */
 function getRideDuration(f) {
-  switch (f) {
-    case 1:
-      return 5.85;
-      break;
-    case 2:
-      return 8.38;
-      break;
-    case 3:
-      return 10.88;
-      break;
-    case 4:
-      return 13.38;
-      break;
-    case 5:
-      return 15.88;
-      break;
-    case 6:
-      return 18.38;
-      break;
-    case 7:
-      return 20.88;
-      break;
-    case 8:
-      return 23.38;
-      break;
-  }
+  return [5.85, 8.38, 10.88, 13.38, 15.88, 18.38, 20.88, 23.38][f];
 }
 
 /*
@@ -79,13 +54,8 @@ rd is ride duration
 td is transition duration 
 */
 function animate(t, b, c, rd, td) {
-  if (t < td) {
-    return easeInQuad(t, b, c, td);
-  } else if (t < (rd - td)) {
-    return c;
-  } else if (t < rd) {
-    return c - easeOutQuad(t - (rd - td), b, c, td);
-  } else if (t > rd) {
-    return 0;
-  }
+  if (t < td) return easeInQuad(t, b, c, td);
+  else if (t < (rd - td)) return c;
+  else if (t < rd) return c - easeOutQuad(t - (rd - td), b, c, td);
+  else if (t > rd) return 0;
 }
