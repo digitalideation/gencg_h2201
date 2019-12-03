@@ -1,6 +1,6 @@
 // Global var
 let direction;
-let stepSize;
+let stepSize, rideDuration, startTime;
 let objects;
 
 function setup() {
@@ -17,18 +17,24 @@ function setup() {
 
   // Init Var
   objects = [...Array(100)].map(e => [random(width), random(height)]);
-
+  startTime = new Date();
+  rideDuration = getRideDuration(2);
 }
 
 function draw() {
 
   background(255);
 
-  stepSize = (direction === 'up') ? 2 : -2;
+  // Time since the sketch started
+  let t = (new Date() - startTime) / 1000;
+  stepSize = animate(t, 0, 2, rideDuration, 2.5)
+  // console.log(`${t}, ${stepSize}, ${rideDuration}`)
+
+  stepSize = (direction === 'up') ? +stepSize : -stepSize;
 
   for (const object of objects) {
 
-    object[1] += random(stepSize);
+    object[1] += stepSize;
     fill(map(object[1], 0, height, 0, 255))
     ellipse(object[0], object[1], 100, 100);
 
@@ -41,7 +47,9 @@ function keyPressed() {
   if (keyCode === 32) setup() // 32 = Space
   if (keyCode === 38) direction = 'up' // 38 = ArrowUp
   if (keyCode === 40) direction = 'down' // 40 = ArrowDown
-  if (key == 's' || key == 'S') saveThumb(650, 350);
+  if (keyCode >= 48 && keyCode <= 57) rideDuration = getRideDuration(toInt(key)) // 48...57 = Digits
+  //
+  if (key === 's' || key === 'S') saveThumb(650, 350);
 
 }
 
