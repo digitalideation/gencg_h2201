@@ -1,3 +1,6 @@
+// https://peterbeshai.com/blog/2018-10-28-p5js-ccapture/
+// https://github.com/spite/ccapture.js
+
 // Global var
 let direction;
 let stepSize, rideDuration, startTime;
