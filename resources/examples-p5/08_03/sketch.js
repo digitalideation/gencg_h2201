@@ -1,8 +1,8 @@
 // Global var
 let direction;
 let stepSize, rideDuration, startTime;
-let graphics;
-let app;
+let graphics, app;
+let stats;
 
 
 function setup() {
@@ -21,7 +21,7 @@ function setup() {
   startTime = new Date();
   rideDuration = getRideDuration(2);
 
-  // Create texture
+  // Create graphics
   graphics = [];
   for (var i = 0; i < 5000; i++) {
     const graphic = new PIXI.Graphics();
@@ -30,7 +30,7 @@ function setup() {
     const rgbString = Math.random() * 0xff0000;
     // const rgbString = `0x${toInt(random(255))}${toInt(random(10))}${toInt(random(10))}`;
     graphic.beginFill(rgbString, 0.5);
-    graphic.drawCircle(0, 0, random(window.innerHeight/80));
+    graphic.drawCircle(0, 0, random(window.innerHeight / 80));
     graphic.endFill();
     graphic.x = random(0, window.innerWidth)
     graphic.y = random(0, window.innerHeight)
@@ -38,9 +38,15 @@ function setup() {
     app.stage.addChild(graphic);
   }
 
+  // Stats
+  stats = new Stats();
+  stats.showPanel(1); // 0: fps, 1: ms, 2: mb, 3+: custom
+  document.body.appendChild(stats.dom);
 }
 
 function draw() {
+
+  stats.begin();
 
   // Time since the sketch started
   let t = (new Date() - startTime) / 1000;
@@ -48,10 +54,12 @@ function draw() {
   // console.log(`${t}, ${stepSize}, ${rideDuration}`)
 
   stepSize = (direction === 'up') ? stepSize : -stepSize;
-  
+
   for (const graphic of graphics) {
     graphic.y += random(-stepSize, stepSize);
   }
+
+  stats.end();
 
 }
 
@@ -60,16 +68,17 @@ window.onkeydown = keyDown
 window.onresize = windowResized
 
 function keyDown(event) {
-  if (event.code === 'Space') setup() 
-  if (event.code === 'ArrowUp') direction = 'up' 
-  if (event.code === 'ArrowDown') direction = 'down' 
-  if (event.code.includes('Digit')) rideDuration = getRideDuration(toInt(event.key)) 
+  if (event.code === 'Space') setup()
+  if (event.code === 'ArrowUp') direction = 'up'
+  if (event.code === 'ArrowDown') direction = 'down'
+  if (event.code.includes('Digit')) rideDuration = getRideDuration(toInt(event.key))
 }
 
 
 // Tools
 // resize canvas when the window is resized
 function windowResized() {
+  app.renderer.resize(window.innerWidth, window.innerHeight);  
 }
 
 // Int conversion
