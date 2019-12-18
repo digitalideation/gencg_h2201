@@ -3,6 +3,21 @@
 Welcome to the classes generative design @ HSLU / Digital Ideation. This is the main page for the class, you will find a list of resources available below as well as some other information to help with this 3 weeks workshop. It is advised to download / clone this repo at the beginning of the class and eventually keep it updated. All assignments / exercises should be done by students in their own private classroom repo.
 
 
+## Results :trophy:
+
+- [Pascal Benz](https://ibbenz.github.io/ba_222_gencg_h1901_students/)
+- [André Lergier](https://andre-lergier.github.io/hslu-gencg/)
+- [Dariush Mehdiaraghi](https://dariush-mehdiaraghi.github.io/ba_222_gencg_h1901_students/)
+- [Dominic Lüönd](https://de-el.github.io/ba_222_gencg_h1901_students/)
+- [Fabien Jeckelmann](https://fabjeck.github.io/ba_222_gencg_h1901_students/)
+- [Luka Krammer](https://remarkies.github.io/ba_222_gencg_h1901_students/)
+- [Marc Häusler](https://merchaz.github.io/ba_222_gencg_h1901_students/)
+- [Miro Bossert](https://mirobossert.github.io/gencg-2019/)
+- [Paula Weibel](https://paulaweibel.github.io/ba_222_gencg_h1901_students/)
+- [Raphael Andres](https://derwalliserinluzaeru.github.io/gencg/)
+- [Till Lötscher](https://tillloetscher.github.io/ba_222_gencg_h1901_students/)
+
+
 ## Content
 
 - [Main github repo][refMainRepo]
