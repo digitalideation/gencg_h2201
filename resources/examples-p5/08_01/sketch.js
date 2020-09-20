@@ -28,9 +28,9 @@ function draw() {
   // Time since the sketch started
   let t = (new Date() - startTime) / 1000;
   stepSize = animate(t, 0, 2, rideDuration, 2.5)
-  // console.log(`${t}, ${stepSize}, ${rideDuration}`)
+  console.log(`${t}, ${stepSize}, ${rideDuration}`)
 
-  stepSize = (direction === 'up') ? +stepSize : -stepSize;
+  stepSize = (direction === 'up') ? stepSize : -stepSize;
 
   for (const object of objects) {
 

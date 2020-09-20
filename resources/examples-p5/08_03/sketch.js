@@ -17,6 +17,7 @@ function setup() {
   app.renderer.autoDensity = true;
   app.renderer.clearBeforeRender = false;
   app.renderer.resize(window.innerWidth, window.innerHeight);
+  
   // Init Var
   startTime = new Date();
   rideDuration = getRideDuration(2);
@@ -26,8 +27,8 @@ function setup() {
   for (var i = 0; i < 5000; i++) {
     const graphic = new PIXI.Graphics();
     const fillColor = color(random(255), random(50), random(10))
-    // const rgbString = `0x${fillColor.toString('#rrggbb').substring(1)}`;
-    const rgbString = Math.random() * 0xff0000;
+    const rgbString = `0x${fillColor.toString('#rrggbb').substring(1)}`;
+    // const rgbString = Math.random() * 0xff0000;
     // const rgbString = `0x${toInt(random(255))}${toInt(random(10))}${toInt(random(10))}`;
     graphic.beginFill(rgbString, 0.5);
     graphic.drawCircle(0, 0, random(window.innerHeight / 80));

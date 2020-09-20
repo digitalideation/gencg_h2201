@@ -7,7 +7,7 @@ let buffer;
 function setup() {
 
   // Canvas setup
-  canvas = createCanvas(windowWidth, windowHeight);
+  canvas = createCanvas(windowWidth, windowHeight, WEBGL);
   canvas.parent("p5Container");
   p5.disableFriendlyErrors = true; // disables FES
   buffer = createGraphics(width, height, WEBGL)

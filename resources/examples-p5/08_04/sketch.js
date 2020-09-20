@@ -28,7 +28,8 @@ function setup() {
   graphics = [];
   for (var i = 0; i < 5000; i++) {
     const graphic = new PIXI.Graphics();
-    const rgbString = `0x${toInt(Math.random()*255)}${toInt(Math.random()*10)}${toInt(Math.random()*10)}`;
+    const rgbString = `0x${toInt(Math.random()*255).toString(16)}${toInt(Math.random()*10).toString(16)}${toInt(Math.random()*10).toString(16)}`;
+    console.log(rgbString)
     graphic.beginFill(rgbString, 0.5);
     graphic.drawCircle(0, 0, Math.random() * window.innerHeight / 80);
     graphic.endFill();
@@ -63,7 +64,6 @@ function draw() {
 
   });
 }
-
 
 
 window.onkeydown = keyDown

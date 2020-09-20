@@ -14,7 +14,7 @@ function setup() {
   createCanvas(6480 / density, 3840 / density);
 
   // Capture settings
-  fps = 60;
+  fps = 30;
   capturer = new CCapture({ format: 'png', framerate: fps });
 
   // this is optional, but lets us see how the animation will look in browser.
@@ -24,7 +24,7 @@ function setup() {
   capturer.start();
 
   // Init Var
-  objects = [...Array(1000)].map(e => [random(width), random(height)]);  
+  objects = [...Array(500)].map(e => [random(width), random(height)]);  
   startTime = millis();
   rideDuration = getRideDuration(2);
 
@@ -33,7 +33,7 @@ function setup() {
 function draw() {
   background(255);
 
-  // duration in milliseconds
+  // duration in seconds
   var duration = 5;
   var t = (millis() - startTime)/1000;
 
@@ -55,7 +55,8 @@ function draw() {
   for (const object of objects) {
 
     object[1] += stepSize;
-    fill(map(object[1], 0, height, 0, 255))
+    fill(noise(object[1])*255, noise(object[0])*255, noise(t)*255)
+    stroke(noise(object[0])*255, noise(object[1])*255, noise(t)*255)
     ellipse(object[0], object[1], width/20, width/20);
 
   }
