@@ -30,7 +30,7 @@ function setup() {
   // Agents
   agents = [];   
   for (var i=0; i<10000; i++) {
-    agents.push(new Agent(1024, 720, 100));
+    agents.push(new Agent(1024, 720, 10));
   }  
   background(0);  
 }
@@ -43,7 +43,7 @@ function draw() {
   // console.log(video.pixels.length);
   // image(video,0,0);
   // time
-  let t = millis() / 1000;
+  let t = millis() / 10000;
 
   // 
   background(0, options.overlayAlpha);  
