@@ -2,6 +2,24 @@
 
 Welcome to the classes generative design @ HSLU / Digital Ideation. This is the main page for the class, you will find a list of resources available below as well as some other information to help with this 3 weeks workshop. It is advised to download / clone this repo at the beginning of the class and eventually keep it updated. All assignments / exercises should be done by students in their own private classroom repo.
 
+
+## :trophy: Results
+
+- [Amstutz, Maurus](https://kaboomfisch.github.io/gencg_h2001_students/)
+- [Arcangelo, Edoardo](https://www.notion.so/Generative-Computer-Graphics-349b56fac014418f985e0fd496c51398)
+- [Düblin, Dennis](https://twistedpan.github.io/Generative_Computer_Graphics/)
+- [Grütter, Andreas](https://editor.p5js.org/AndyGrutter/sketches/) + [Pico8](https://andreas-grutter.itch.io/worm-game)
+- [Hartmann, Marco](https://github.com/SirDragon001/P5-Geng)
+- [Lao, Wanda](https://www.notion.so/Generative-Computer-Graphics-0127bacc26bb474794bdf48cc90749e5)
+- [Maag, Dominik](https://www.notion.so/Dokumentation-Generativ-Computer-Grafiks-7c57470d25894b809884e7cdbcbe65f6)
+- [Müller, Simon](https://seimon-m.github.io/gencg/)
+- [Siegenthaler, Ben](https://www.notion.so/Generative-Computer-Graphics-dfc1a4ba63a7481da368c62698a3b1a2)
+- [Schütz, Lena](https://oblivionls.github.io/)
+- [Stucki, Michael](http://gencg.stumi.codes/documentation.html)
+- [Wolter, Jonas](https://medium.com/@jonas.wolter.ch/generative-computer-graphics-blog-67db2b7794b8)
+- [Zuber, Marc]()
+
+
 ## Content
 
 - [Main github repo][refMainRepo]
@@ -34,6 +52,7 @@ During the 3 weeks class we will be looking at the core functions of p5.js and t
 
 
 ## Tools
+
 - :pencil2: [P5.js](https://p5js.org/)
 - :red_circle: [Three.js](https://threejs.org/)
 - :point_up_2: [TouchDesigner](https://derivative.ca/)
