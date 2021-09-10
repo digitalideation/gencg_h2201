@@ -14,7 +14,7 @@ Welcome to the classes generative design @ HSLU / Digital Ideation. This is the 
 
 - [Main github repo][refMainRepo]
     - Slides
-    - Notebooks
+    - notes
 - [Classroom gihub repo][refClassRepo] (1x per students)
     - Sample code
     - Starter code + gh pages
@@ -36,9 +36,9 @@ During the 3 weeks class we will be looking at the core functions of p5.js and t
  [refSlides00]: slides/week00.html
  [refSlides01]: slides/week01.html
  [refSlides02]: slides/week02.html
- [refNotes01]: notebooks/week01.html
- [refNotes02]: notebooks/week02.html
- [refNotes03]: notebooks/week03.html
+ [refNotes01]: notes/week01.html
+ [refNotes02]: notes/week02.html
+ [refNotes03]: notes/week03.html
 
 
 ## Tools

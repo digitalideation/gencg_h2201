@@ -8,7 +8,6 @@ For this first week we will focus on the basis. We will be looking at the core f
 ## Github
 
 You should have received a link for the github classroom page, please clone this repo on your computer. This will be the main repo to keep all the work done in this class. At the end of the workshop this will serve as a portfolio of your work as creative coder ;). You can work on experimental sketch locally, once you are satisfied you can then push them to your classroom repo.
-(add file structure img here)
 
 ## p5.js environment setup
 
