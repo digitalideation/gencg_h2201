@@ -8,8 +8,6 @@
 ---
 # Day 01
 
-[We start here](notes/day01)
-
 ## Computing wihtout computer (part01)
 
 ### Sollewit: Wall drawing
