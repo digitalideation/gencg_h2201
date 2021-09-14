@@ -9,11 +9,13 @@ Welcome to the classes generative design @ HSLU / Digital Ideation. This is the 
 
 |Time               |Desc                                      |
 |---                |---                                       |
-|9:30 - 10:30       | 1) Intro Me + You                        |
-|10:30 - 10:45      | 2) Repo                                  |
+|9:30 - 10:30       | Intro Me + You                           |
+|10:30 - 10:45      | Repo                                     |
 |10:45 - 11:00      | Break                                    |
-|11:00 - 12:00      | 3) Computing without computer (part01)   |
-|13:00 - 15:00      | 4) Computing with computer (part01)      |
+|11:00 - 11:30      | Computing without computer (part01)      |
+|11:30 - 12:00      | Computing with computer (part01)         |
+|13:00 - 14:00      | Computing with computer (part02)         |
+|14:00 - 15:00      | Computing without computer (part02)      |
 
 <!-- * Intro Me + You - 9:30 - 10:30
 * Getting around the repo - 10:30 - 10:45
@@ -24,7 +26,7 @@ Welcome to the classes generative design @ HSLU / Digital Ideation. This is the 
 
 ## Content
 
-### 1) Intro
+### Intro
 
 * Me
     * [Intro][url00]
@@ -51,24 +53,47 @@ Welcome to the classes generative design @ HSLU / Digital Ideation. This is the 
         * Exit tickets: 2 Questions at the end of each class (what form? Slack?)
         * Critique and Feedback: interactive (Slack? G docs? Questionnaire?)
 
-### 2) Repo
 
-### 3) Computing wihtout computer (part01)
+### Computing wihtout computer
 
-#### Sollewit: Wall drawing _(30 mns)_
+#### Sollewit: [Wall drawing 118][url03] _(30 mns)_
 
-#### Moniker: The break _(30 mns)_
+Fifty randomly placed points all connected by straight lines.
 
-#### Sprouts 
+![wall drawing 118](wd118.jpg)
 
-### 4) Computing with computer
+#### John H. Conway & Michael S. Patterson: [Sprouts][url02] _(30 mns)_ 
+
+The game starts by drawing any number of spots. For example 3 spots. The first player has a turn by joining two of the spots and marking a new spot in the middle of the line. Or the line may start and end on the same spot.
+
+You are not allowed to draw a line which crosses another line. A spot cannot have more than three lines leading to or from it.  The idea is to make it impossible for the other player to draw a line. So the last person to draw a line is the winner.
+
+![Sprouts](sprouts.png)
+
+#### Moniker: [The beach](https://conditionaldesign.org/workshops/the-beach/) _(30 mns)_
+
+Roel: "entering the beach on a sunny day you will look for an empty place and position yourself right in the middle". - A fascinating form of self organization.
+
+![beach](thebeach.jpg)
+
+### Computing with computer
 
 #### Getting familiar with the software
 
-#### Draw then code (part01)
+Complete the intro and some of the tutorials from [P5.js learn page](https://p5js.org/learn/)
+
+#### Draw then code
+
+Make a simple drawing and try to reproduce it with code.
 
 #### One with everything
 
+Draw all possible geometric shapes you can generate with your software.
+
+## Deliverables
+
+* Documentation and thoughts on Computing without computers (photos, short analysis & take away from the games)
+* Code and documentation on Computing with computers 
 
 
 ## Tools
@@ -78,31 +103,43 @@ We will use [__p5.js__ ](https://p5js.org/) for the front end. It’s a high lev
 - :pencil2: [P5.js](https://p5js.org/)
 - :red_circle: [Three.js](https://threejs.org/)
 - :point_up_2: [TouchDesigner](https://derivative.ca/)
+- :zap: [OpenFramework](https://openframeworks.cc/)
 - :flags: [Glitch](https://glitch.com/)
 - :computer: [Codepen](https://codepen.io/)
 
 
 ## References
 
+### :pushpin: Conditional design
+
+- [Conditional Design](https://conditionaldesign.org/archive/)
+
 ### :books: Resources
 
-#### P5 
+#### P5
+
 - [Getting started with P5.js](https://p5js.org/get-started/) (intro)
 - [Learn](https://p5js.org/learn/)
 - [Wiki](https://github.com/processing/p5.js/wiki/)
 - [Demos](https://p5-demos.glitch.me/) (demo)
 - [Reference](https://p5js.org/reference/)
 - [Kadenze P5.js](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info) (course)
+
 #### JS
+
 - [JS for cats](http://jsforcats.com)
 - [Matt DesLauriers JS guide](https://github.com/mattdesl/workshop-data-artwork#javascript-guides)
 - [Creative Coding](https://creative-coding.decontextualize.com/)
 - [Shiffman's Foundation of programming in js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+
 #### Three.js
+
 - [Getting started with three js](https://threejs.org/docs/index.html) (intro)
 - [Three.js fundamentals](https://threejsfundamentals.org/) (articles)
 - [Three.js demos](https://three-demos.glitch.me/) (demo)
+
 #### General
+
 - [The coding train :rainbow:](https://thecodingtrain.com/) (course)
 - [Nature of code](https://natureofcode.com/book/) (book)
 - [Canvas demos](http://youpi.io) (demo)
@@ -111,10 +148,13 @@ We will use [__p5.js__ ](https://p5js.org/) for the front end. It’s a high lev
 - [Shaders tutorials](https://thebookofshaders.com/) (tutorials)
 
 ### :art: Inspirations
+
 - [fyprocessing](https://fyprocessing.tumblr.com/)
 - [Class Pinterest](https://www.pinterest.ch/9uill0m/generative-class/)
 
 ### :bird: Who to follow
+
+- [Manolo Gamboa Naon](https://www.behance.net/manoloide)
 - [Lia Something](https://twitter.com/liasomething)
 - [Jo](https://twitter.com/jn3008)
 - [Etienne Jacob](https://twitter.com/etiennejcb)
@@ -147,16 +187,7 @@ We will use [__p5.js__ ](https://p5js.org/) for the front end. It’s a high lev
 - [History](http://www.verostko.com/algorist.html)
 
 
-
-
----
-# Day 02
-
-## Intro
-
-Today we will start digging into p5js and work on 
-
-
- [url00]: https://digitalideation.github.io/gencg_h2101/slides/intro.html
- [url01]: https://digitalideation.github.io/gencg_h2101/slides/history.html
-`
+[url00]: https://digitalideation.github.io/gencg_h2101/slides/intro.html
+[url01]: https://digitalideation.github.io/gencg_h2101/slides/history.html
+[url02]: https://nrich.maths.org/2413
+[url03]: https://jessicacarnegie.com/sol-lewitt-wall-drawing-118
