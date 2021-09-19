@@ -33,9 +33,9 @@ During the 3 weeks class we will be looking at the core functions of p5.js and t
 
 ### Evaluation criteria:
 
-* Attendance, participation and engagement in others' projects (30%)
-* Research, Documentation (30%)
-* Final Project (30%)
+* Attendance, participation and engagement in others' projects (1/3)
+* Research, Documentation (1/3)
+* Final Project (1/3)
 
 ### Deliverables:
 
