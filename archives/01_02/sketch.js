@@ -9,15 +9,17 @@ function setup() {
   // Canvas setup
   canvas = createCanvas(windowWidth, windowHeight);
   canvas.parent("p5Container");
+
   // Detect screen density (retina)
   var density = displayDensity();
   pixelDensity(density);
+
   // Colors and drawing modes
   colorMode(HSL, 360, 100, 100, 100);
   background(360);
   strokeColor = color(0, 10);
   smooth();
-  // Init Var
+
 }
 
 function draw() {
