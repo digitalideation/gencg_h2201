@@ -1,26 +1,13 @@
-Part 01
+Notebook 01 - Maths / Shapes / Pattern / Agents
 ===
 
-For this first week we will focus on the basis. We will be looking at the core functions of p5.js, and some simple useful maths technics. We will also experiment with shapes, patterns and agents (intelligent and non intelligent). We will then learn how color spaces are created and how to generate them dynamically.
+Core functions of p5.js and simple useful maths technics. Shapes, patterns and agents (intelligent and non intelligent).
 
 # Setup & Basis
 
 ## Github
 
-You should have received a link for the github classroom page, please clone this repo on your computer. This will be the main repo to keep all the work done in this class. At the end of the workshop this will serve as a portfolio of your work as creative coder ;). You can work on experimental sketch locally, once you are satisfied you can then push them to your classroom repo.
-
-## p5.js environment setup
-
-It is recommended to setup p5js locally, you can follow this detailed [guide by Daniel Shiffman](https://www.youtube.com/watch?v=HZ4D3wDRaec) to setup your env if you like. Steps are:
-
-- Install node (or other webserver)
-- If using node install p5-manager *(optional)* to quickly generate project
-- Run local server
-- Play
-
-## Processing + libs
-
-Please install processing from this [link](http://www.processing.org) you can then install all libraries required.
+This repo is the main repo for the module, the `dev` branch contain everything you need to write your journal. This is where you will keep all the work done in the class. You can work on experimental sketch locally, once you are satisfied you can then push them to the repo where they will be published. There might be some change on the `master` branch so you might have to pull it from time to time.
 
 ## P5.js basis
 
@@ -42,7 +29,7 @@ Before we get into vectors themselves, let's look at a beginner Processing examp
 
 <!-- Bouncing ball no vectors -->
 <p data-height="512" data-theme-id="0" data-slug-hash="QOOQXK" data-default-tab="js,result" data-user="gu-ma" data-embed-version="2" data-pen-title="p5.js vector (no) math 02" class="codepen">See the Pen <a href="https://codepen.io/gu-ma/pen/QOOQXK/">p5.js vector (no) math 02</a> by G. (<a href="https://codepen.io/gu-ma">@gu-ma</a>) on <a href="https://codepen.io">CodePen</a>.</p>
-<script async src="https://production-assets.codepen.io/../assets/embed/ei.js"></script>
+<script async src="https://production-assets.codepen.io/../../assets/embed/ei.js"></script>
 
 We can replace
 
@@ -67,7 +54,7 @@ The sketch below show a typical vector substraction with normalization and scali
 
 <!-- Basic vector math: subtraction, normalization, scaling -->
 <p data-height="512" data-theme-id="dark" data-slug-hash="oooEod" data-default-tab="js,result" data-user="gu-ma" data-embed-version="2" data-pen-title="p5.js vector math" class="codepen">See the Pen <a href="https://codepen.io/gu-ma/pen/oooEod/">p5.js vector math</a> by G. (<a href="https://codepen.io/gu-ma">@gu-ma</a>) on <a href="https://codepen.io">CodePen</a>.</p>
-<script async src="https://production-assets.codepen.io/../assets/embed/ei.js"></script>
+<script async src="https://production-assets.codepen.io/../../assets/embed/ei.js"></script>
 
 > Both addition and subtraction with vectors follows the same algebraic rules as with real numbers.<br>
 > The commutative rule: u + v = v + u <br>
@@ -80,7 +67,7 @@ Example of the bouncing ball rewritten with vectors:
 
 <!-- Bouncing ball with vectors -->
 <p data-height="512" data-theme-id="0" data-slug-hash="JOOLQP" data-default-tab="js,result" data-user="gu-ma" data-embed-version="2" data-pen-title="p5.js vector math 03" class="codepen">See the Pen <a href="https://codepen.io/gu-ma/pen/JOOLQP/">p5.js vector math 03</a> by G. (<a href="https://codepen.io/gu-ma">@gu-ma</a>) on <a href="https://codepen.io">CodePen</a>.</p>
-<script async src="https://production-assets.codepen.io/../assets/embed/ei.js"></script>
+<script async src="https://production-assets.codepen.io/../../assets/embed/ei.js"></script>
 
 ___
 
@@ -101,21 +88,21 @@ Max Bill was a Swiss designer who created the Allianz group of Swiss artists in 
 
 Try to create some sketch replicating some of the "effects" used in Max Bill (or other artists) artworks. Add some interactivity.
 
-<img src="../assets/images/maxbill01.jpg" style="width:49%;height:auto;"> <img src="../assets/images/maxbill02.jpg" style="width:49%;height:auto;">
+<img src="../../assets/images/maxbill01.jpg" style="width:49%;height:auto;"> <img src="../../assets/images/maxbill02.jpg" style="width:49%;height:auto;">
 
 Do not focus on colors for now, it is recommended to do this sketches in black and white. But please feel free to add colors if you like!
 
-<img src="../assets/images/maxbill01-bw.gif" style="width:49%;height:auto;"> <img src="../assets/images/maxbill02-bw.gif" style="width:49%;height:auto;">
+<img src="../../assets/images/maxbill01-bw.gif" style="width:49%;height:auto;"> <img src="../../assets/images/maxbill02-bw.gif" style="width:49%;height:auto;">
 
 ## ✎ Experiment-02
 
 Try to recreate some of the effects below. Add some interactivity (mouse, keyboard, etc...)
 
-<img src="../assets/images/circles01-bw.png" style="width:32%;height:auto;"> <img src="../assets/images/circles02-bw.png" style="width:32%;height:auto;"> <img src="../assets/images/circles03-bw.png" style="width:32%;height:auto;">
+<img src="../../assets/images/circles01-bw.png" style="width:32%;height:auto;"> <img src="../../assets/images/circles02-bw.png" style="width:32%;height:auto;"> <img src="../../assets/images/circles03-bw.png" style="width:32%;height:auto;">
 
 **✎ Going further: try to replicate more artworks from Max Bill's serie [fifteen variations on a single theme](https://rulesbased.wordpress.com/2010/09/08/fifteen-variations-on-a-single-theme/)**
 
-<img src="../assets/images/maxbill_15variations.jpg" style="width:100%;height:auto;">
+<img src="../../assets/images/maxbill_15variations.jpg" style="width:100%;height:auto;">
 
 > You will find code examples in the main github-repo in the folder `examples/01-...` `examples/02-...` <br>
 > [Generative Gestaltung (P_2_0)](http://www.generative-gestaltung.de/2) <br>
@@ -127,6 +114,7 @@ A pattern is a discernible regularity in the world or in a manmade design. As su
 In this section we are going to take a closer look at one particular type of patterns: Tessellations. Tessellation, or tiling in two dimensions, is a topic in geometry that studies how shapes, known as tiles, can be arranged to **fill a plane without any gaps, according to a given set of rules**. There are many forms of tesselation and you are invited to read some of the wiki pages below to learn more about each of those tesselation technics:
 
 - [Tesselation](https://en.wikipedia.org/wiki/Tessellation)
+- [Truchet tiling](https://mypages.iit.edu/~krawczyk/rjkisama11.pdf)
 - [Euclidian tilings](https://en.wikipedia.org/wiki/Euclidean_tilings_by_convex_regular_polygons)
 - [Edge tesselation](https://en.wikipedia.org/wiki/Edge_tessellation)
 - [Penrose tiling](https://en.wikipedia.org/wiki/Penrose_tiling)
@@ -136,8 +124,8 @@ In this section we are going to take a closer look at one particular type of pat
 
 Try to recreate some of the patterns below, add interactivity. **Start simple then complexify your system gradually.**
 
-<img src="../assets/images/pattern04.jpg" style="width:32%;height:auto;"> <img src="../assets/images/pattern05.jpg" style="width:32%;height:auto;"> <img src="../assets/images/pattern06.jpg" style="width:32%;height:auto;"> 
-<img src="../assets/images/pattern01.jpg" style="width:32%;height:auto;"> <img src="../assets/images/pattern02.jpg" style="width:32%;height:auto;"> <img src="../assets/images/pattern03.jpg" style="width:32%;height:auto;">
+<img src="../../assets/images/pattern04.jpg" style="width:32%;height:auto;"> <img src="../../assets/images/pattern05.jpg" style="width:32%;height:auto;"> <img src="../../assets/images/pattern06.jpg" style="width:32%;height:auto;"> 
+<img src="../../assets/images/pattern01.jpg" style="width:32%;height:auto;"> <img src="../../assets/images/pattern02.jpg" style="width:32%;height:auto;"> <img src="../../assets/images/pattern03.jpg" style="width:32%;height:auto;">
 
 ___
 
@@ -150,7 +138,7 @@ ___
 
 # From patterns to agents
 
-<img src="../assets/images/10print.jpg" style="width:100%;height:auto;">
+<img src="../../assets/images/10print.jpg" style="width:100%;height:auto;">
 
 Before we start working on agents let's have a look at a fun little command line code originally written in Basic on the C64 in the early 80's:
 
@@ -158,7 +146,7 @@ Before we start working on agents let's have a look at a fun little command line
 
 Even though the code in itself is similar to the algorithms that generate patterns we explored before; With certain settings the visuals it produces are quite similar to outputs generated by intelligent agents programs.
 
-<img src="../assets/images/10print-command.png" style="width:100%;height:auto;">
+<img src="../../assets/images/10print-command.png" style="width:100%;height:auto;">
 
 ## ✎ Experiment-04
 
@@ -186,13 +174,13 @@ Try to recreate some of the visuals below. Have a look at the "example" folder i
 
 Once you're done creating stupid agents, add a set of rules to them to create self-organisational models. Add interactivity and try to generate unexpected results ;)
 
-<img src="../assets/images/agent01.jpg" style="width:49%;height:auto;"> <img src="../assets/images/agent02.jpg" style="width:49%;height:auto;">
+<img src="../../assets/images/agent01.jpg" style="width:49%;height:auto;"> <img src="../../assets/images/agent02.jpg" style="width:49%;height:auto;">
 
 ## ✎ Experiment-06 | Shapes made out of agents
 
 In this experiment you will combine what you've learned in the section on patterns and tesselation with some of the technics you've developed coding the agents before.
 
-<img src="../assets/images/agent03.jpg" style="width:49%;height:auto;"> <img src="../assets/images/agent04.jpg" style="width:49%;height:auto;">
+<img src="../../assets/images/agent03.jpg" style="width:49%;height:auto;"> <img src="../../assets/images/agent04.jpg" style="width:49%;height:auto;">
 
 ## Growing agents
 

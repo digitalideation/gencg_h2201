@@ -1,8 +1,10 @@
+Notebook 02 - Colors
+===
+
 > “In visual perception a color is almost never seen as it really is - as it physically is. This fact makes color the most relative medium in art.” <br><br>
 > _Josef Albers (1963), Interaction of Color_
 
 # Colors
-
 
 ## Color Recollection – Visual Memory [^note-id1]
 
@@ -36,11 +38,11 @@ On the traditional color wheel developed in the 18th century, used by Claude Mon
 The RGB color model, invented in the 19th century and fully developed in the 20th century, uses combinations of red, green, and blue light against a black background to make the colors seen on a computer monitor or television screen. In the RGB model, the primary colors are red, green, and blue. The complementary primary–secondary combinations are red–cyan, green–magenta, and blue–yellow. In the RGB color model, the light of two complementary colors, such as red and cyan, combined at full intensity, will make white light, since two complementary colors contain light with the full range of the spectrum.
 
 <div style="width:45%;height:auto;display:inline-block;">
-    <img src="../assets/images/colorwheel_traditional.png">
+    <img src="../../assets/images/colorwheel_traditional.png">
     <div style="font-size: 80%;"> Traditional color wheel </div>
 </div>
 <div style="width:45%;height:auto;display:inline-block;">
-    <img src="../assets/images/colorwheel_rgb.png">
+    <img src="../../assets/images/colorwheel_rgb.png">
     <div style="font-size: 80%;"> RGB color wheel</div>
 </div>
 
@@ -50,7 +52,7 @@ RGB is a color model with three dimensions – red, green, and blue – that are
 
 The RGB color model is not an especially intuitive model for creating colors in code. While you might be able to guess the combination of values to use for some colors such as yellow (equal amounts of red and green) or the red color used on Coca-Cola bottles (lots of red with a little bit of blue), less pure colors are much harder to guess in this color model. 
 
-![RGB Color model](../assets/images/colormodel_rgb.png "RGB Color model")
+![RGB Color model](../../assets/images/colormodel_rgb.png "RGB Color model")
 
 ### HSV [^note-id4]
 
@@ -60,7 +62,7 @@ HSV is a cylindrical color model that remaps the RGB primary colors into dimensi
 - _Saturation_ controls the amount of color used. A color with 100% saturation will be the purest color possible, while 0% saturation yields grayscale.
 - _Value_ controls the brightness of the color. A color with 0% brightness is pure black while a color with 100% brightness has no black mixed into the color. Because this dimension is often referred to as brightness, **the HSV color model is sometimes called HSB, including in P5.js.**
 
-![HSV Color model](../assets/images/colormodel_hsv.png "HSV Color model")
+![HSV Color model](../../assets/images/colormodel_hsv.png "HSV Color model")
 
 ### HSL [^note-id4]
 
@@ -70,14 +72,14 @@ HSL is another cylindrical color model that shares two dimensions with HSV, whil
 - _Saturation_ controls the purity of the color, exactly like HSV.
 - _Lightness_ controls the luminosity of the color. This dimension is different from the HSV value dimension in that the purest color is positioned midway between black and white ends of the scale. A color with 0% lightness is black, 50% is the purest color possible, and 100% is white.
 
-![HSL Color model](../assets/images/colormodel_hsl.png "HSL Color model")
+![HSL Color model](../../assets/images/colormodel_hsl.png "HSL Color model")
 
 
 ## Color spaces [^note-id4]
 
 Color models provide for a good way to visualize the color spectrum, but they are inadequate when it comes to defining and displaying colors on computer screens. To explain this, let us assume that you own a laptop computer as well as a larger, external screen for your home office. Now, let us also assume that you are running a P5.js sketch showing a yellow ellipse on both screens. In a world without color spaces, these two screens would turn on their red and green subpixels and be done with it. However, what if your larger screen has more expensive lights that look wildly different from the ones on your laptop screen? This would result in two very different kinds of yellow. This is the problem that color spaces set out to solve.
 
-![Color spaces](../assets/images/colorspace.png "Color spaces")
+![Color spaces](../../assets/images/colorspace.png "Color spaces")
 
 
 ## Color Schemes [^note-id3]
@@ -85,7 +87,7 @@ Color models provide for a good way to visualize the color spectrum, but they ar
 ### Monochromatic
 
 <div>
-    <img src="../assets/images/colorscheme_monochromatic.svg" style="vertical-align:text-top;display:inline-block;width:20%;padding-right:10px;">
+    <img src="../../assets/images/colorscheme_monochromatic.svg" style="vertical-align:text-top;display:inline-block;width:20%;padding-right:10px;">
     <div style="vertical-align:text-top;display:inline-block;width:78%;"> 
         <p>Monochromatic color schemes are derived from a single base hue and extended using its shades, tones and tints.</p>
         <p>Tints are achieved by adding white and shades and tones are achieved by adding a darker color, grey or black.</p>
@@ -97,8 +99,8 @@ Color models provide for a good way to visualize the color spectrum, but they ar
 
 <div>
     <div style="vertical-align:text-top;display:inline-block;width:20%;padding-right:10px;">
-        <img src="../assets/images/colorscheme_complementary_wheel.gif">
-        <img src="../assets/images/colorscheme_complementary_example.gif">        
+        <img src="../../assets/images/colorscheme_complementary_wheel.gif">
+        <img src="../../assets/images/colorscheme_complementary_example.gif">        
     </div>
     <div style="vertical-align:text-top;display:inline-block;width:78%;">
         <p>Colors that are opposite each other on the color wheel are considered to be complementary colors (example: red and green).</p> 
@@ -112,8 +114,8 @@ Color models provide for a good way to visualize the color spectrum, but they ar
 
 <div>
     <div style="vertical-align:text-top;display:inline-block;width:20%;padding-right:10px;">
-        <img src="../assets/images/colorscheme_analog_wheel.gif">
-        <img src="../assets/images/colorscheme_analog_example.gif">        
+        <img src="../../assets/images/colorscheme_analog_wheel.gif">
+        <img src="../../assets/images/colorscheme_analog_example.gif">        
     </div>
     <div style="vertical-align:text-top;display:inline-block;width:78%;">
         <p>Analogous color schemes use colors that are next to each other on the color wheel. They usually match well and create serene and comfortable designs. </p>
@@ -127,8 +129,8 @@ Color models provide for a good way to visualize the color spectrum, but they ar
 
 <div>
     <div style="vertical-align:text-top;display:inline-block;width:20%;padding-right:10px;">
-        <img src="../assets/images/colorscheme_triad_wheel.gif">
-        <img src="../assets/images/colorscheme_triad_example.gif">        
+        <img src="../../assets/images/colorscheme_triad_wheel.gif">
+        <img src="../../assets/images/colorscheme_triad_example.gif">        
     </div>
     <div style="vertical-align:text-top;display:inline-block;width:78%;">
         <p>A triadic color scheme uses colors that are evenly spaced around the color wheel. Triadic color schemes tend to be quite vibrant, even if you use pale or unsaturated versions of your hues. </p>
@@ -141,8 +143,8 @@ Color models provide for a good way to visualize the color spectrum, but they ar
 
 <div>
     <div style="vertical-align:text-top;display:inline-block;width:20%;padding-right:10px;">
-        <img src="../assets/images/colorscheme_splitcomplementary_wheel.gif">
-        <img src="../assets/images/colorscheme_splitcomplementary_example.gif">        
+        <img src="../../assets/images/colorscheme_splitcomplementary_wheel.gif">
+        <img src="../../assets/images/colorscheme_splitcomplementary_example.gif">        
     </div>
     <div style="vertical-align:text-top;display:inline-block;width:78%;">
         <p>The split-complementary color scheme is a variation of the complementary color scheme. In addition to the base color, it uses the two colors adjacent to its complement.</p> 
@@ -155,8 +157,8 @@ Color models provide for a good way to visualize the color spectrum, but they ar
 
 <div>
     <div style="vertical-align:text-top;display:inline-block;width:20%;padding-right:10px;">
-        <img src="../assets/images/colorscheme_tetra_wheel.gif">
-        <img src="../assets/images/colorscheme_tetra_example.gif">        
+        <img src="../../assets/images/colorscheme_tetra_wheel.gif">
+        <img src="../../assets/images/colorscheme_tetra_example.gif">        
     </div>
     <div style="vertical-align:text-top;display:inline-block;width:78%;">
         <p>The rectangle or tetradic color scheme uses four colors arranged into two complementary pairs. This rich color scheme offers plenty of possibilities for variation.</p>
@@ -169,8 +171,8 @@ Color models provide for a good way to visualize the color spectrum, but they ar
 
 <div>
     <div style="vertical-align:text-top;display:inline-block;width:20%;padding-right:10px;">
-        <img src="../assets/images/colorscheme_square_wheel.gif">
-        <img src="../assets/images/colorscheme_square_example.gif">        
+        <img src="../../assets/images/colorscheme_square_wheel.gif">
+        <img src="../../assets/images/colorscheme_square_example.gif">        
     </div>
     <div style="vertical-align:text-top;display:inline-block;width:78%;">
         <p>The square color scheme is similar to the rectangle, but with all four colors spaced evenly around the color circle.</p>

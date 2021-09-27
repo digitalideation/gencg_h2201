@@ -1,7 +1,5 @@
 # Day 01
 
-## Intro
-
 Welcome to the classes generative design @ HSLU / Digital Ideation. This is the main page for the class, you will find a list of resources available below as well as some other information to help with this 3 weeks workshop. It is advised to download / clone this repo at the beginning of the class and eventually keep it updated. All assignments / exercises should be done by students in their own private classroom repo.
 
 
@@ -14,19 +12,11 @@ Welcome to the classes generative design @ HSLU / Digital Ideation. This is the 
 |10:45 - 11:00      | Break                                    |
 |11:00 - 11:30      | Computing without computer (part01)      |
 |11:30 - 12:00      | Computing with computer (part01)         |
-|13:00 - 14:00      | Computing with computer (part02)         |
-|14:00 - 15:00      | Computing without computer (part02)      |
-
-<!-- * Intro Me + You - 9:30 - 10:30
-* Getting around the repo - 10:30 - 10:45
-* Break - 10:45 - 11:00
-* Computing without computer (part01) - 11:00 - 12:00
-* Computing with computer - 13:00 - 14:00 -->
+|13:00 - 14:00      | Computing without computer (part02)      |
+|14:00 - 15:00      | Computing with computer (part02)         |
 
 
-## Content
-
-### Intro
+## Intro
 
 * Me
     * [Intro][url00]
@@ -54,46 +44,55 @@ Welcome to the classes generative design @ HSLU / Digital Ideation. This is the 
         * Critique and Feedback: interactive (Slack? G docs? Questionnaire?)
 
 
-### Computing wihtout computer
+## Computing wihtout computer
 
-#### Sollewit: [Wall drawing 118][url03] _(30 mns)_
+### Sollewit: [Wall drawing 118][url03] _(30 mns)_
 
 Fifty randomly placed points all connected by straight lines.
 
-![wall drawing 118](wd118.jpg)
+![wall drawing 118](../../assets/images/wd118.jpg)
 
-#### John H. Conway & Michael S. Patterson: [Sprouts][url02] _(30 mns)_ 
+### John H. Conway & Michael S. Patterson: [Sprouts][url02] _(30 mns)_ 
 
 The game starts by drawing any number of spots. For example 3 spots. The first player has a turn by joining two of the spots and marking a new spot in the middle of the line. Or the line may start and end on the same spot.
 
 You are not allowed to draw a line which crosses another line. A spot cannot have more than three lines leading to or from it.  The idea is to make it impossible for the other player to draw a line. So the last person to draw a line is the winner.
 
-![Sprouts](sprouts.png)
+![Sprouts](../../assets/images/sprouts.png)
 
-#### Moniker: [The beach](https://conditionaldesign.org/workshops/the-beach/) _(30 mns)_
+### Moniker: [The beach](https://conditionaldesign.org/workshops/the-beach/) _(30 mns)_
 
 Roel: "entering the beach on a sunny day you will look for an empty place and position yourself right in the middle". - A fascinating form of self organization.
 
-![beach](thebeach.jpg)
+![beach](../../assets/images/thebeach.jpg)
 
-### Computing with computer
+### Procedural Drawing: _(30 mns)_
 
-#### Getting familiar with the software
+Develop your own procedural drawing instructions based on [Sol Lewitt's work](https://massmoca.org/sol-lewitt/) or some prompts from [Conditional Design](https://conditionaldesign.org/archive). Have one or more of you peers produce a drawing from this system. 
+
+![poster](../../assets/images/poster.jpg)
+
+
+## Computing with computer
+
+### 1) Getting familiar with the software
 
 Complete the intro and some of the tutorials from [P5.js learn page](https://p5js.org/learn/)
 
-#### Draw then code
+### 2) Draw then code
 
-Make a simple drawing and try to reproduce it with code.
+Make a simple drawing and try to reproduce it with code. 
 
-#### One with everything
+### 3) One with everything
 
 Draw all possible geometric shapes you can generate with your software.
+
 
 ## Deliverables
 
 * Documentation and thoughts on Computing without computers (photos, short analysis & take away from the games)
 * Code and documentation on Computing with computers 
+* Include a scan or photo of your drawings in the post
 
 
 ## Tools
@@ -109,10 +108,6 @@ We will use [__p5.js__ ](https://p5js.org/) for the front end. It’s a high lev
 
 
 ## References
-
-### :pushpin: Conditional design
-
-- [Conditional Design](https://conditionaldesign.org/archive/)
 
 ### :books: Resources
 
