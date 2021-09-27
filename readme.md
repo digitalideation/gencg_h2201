@@ -8,7 +8,7 @@
 ---
 # Day 01
 
-## Computing wihtout computer (part01)
+## Computing without computer
 
 ### Sollewit: Wall drawing
 
@@ -26,7 +26,7 @@ var fun = function lang(l) {
 }
 ```
 
-### Moniker: The break 
+### Moniker
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
@@ -34,3 +34,17 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <iframe src="content/day01/01/embed.html" width="100%" height="400" frameborder="no"></iframe>
 {% endraw %}
 
+
+## Computing with computer
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+
+> At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+
+{% raw %}
+<iframe src="content/day01/02/embed.html" width="100%" height="400" frameborder="no"></iframe>
+{% endraw %}
+
+* Lorem ipsum dolor sit amet
+* Consetetur sadipscing elitr, sed diam nonumy.
+* At vero eos et accusam et justo duo dolores et ea rebum. 
