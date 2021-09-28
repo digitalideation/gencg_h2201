@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Generative Computer Graphics
 
 ## Examples
