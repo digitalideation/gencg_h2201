@@ -1,3 +1,6 @@
+// https://pmarsceill.github.io/just-the-docs/docs/customization/
+// https://github.com/pmarsceill/just-the-docs/blob/master/_sass/support/_variables.scss
+
 $body-background-color: $grey-dk-300;
 $sidebar-color: $grey-dk-300;
 $border-color: $grey-dk-200;
@@ -15,3 +18,7 @@ $code-background-color: $grey-dk-250;
 $search-background-color: $grey-dk-250;
 $table-background-color: $grey-dk-250;
 $feedback-color: darken($sidebar-color, 3%);
+
+// Custom
+
+$content-width: 1000px !default;
