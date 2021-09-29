@@ -1,7 +1,9 @@
 # Day 01
 
-Welcome to the classes generative design @ HSLU / Digital Ideation. This is the main page for the class, you will find a list of resources available below as well as some other information to help with this 3 weeks workshop. It is advised to download / clone this repo at the beginning of the class and eventually keep it updated. All assignments / exercises should be done by students in their own private classroom repo.
+Welcome to the classes generative design @ HSLU / Digital Ideation. This is the main page for the class, you will find a list of resources available below as well as some other information to help with this 3 weeks workshop. It is advised to download / clone this repo at the beginning of the class and eventually keep the `master` branch updated. All assignments / exercises should be done by students on the `journal` branch or some other _"blogging platforms"_ if preferred.
 
+!['Vera Molnar Statement'](../../assets/images/vm.jpeg)
+[> Source](https://twitter.com/michaelspalter/status/1442482576283869184)
 
 ## Schedule
 
@@ -87,12 +89,20 @@ Make a simple drawing and try to reproduce it with code.
 
 Draw all possible geometric shapes you can generate with your software.
 
+### 4) Iteration + randomness 
+
+Build a grid, add some randomness to it (different elements in the grid).
+
+### 5) Map
+
+Build a map of an imaginary place.
+
 
 ## Deliverables
 
 * Documentation and thoughts on Computing without computers (photos, short analysis & take away from the games)
-* Code and documentation on Computing with computers 
-* Include a scan or photo of your drawings in the post
+* Code and documentation on Computing with computers, start writing about it in your journal, add some gifs.
+* Include a scan or photo of your drawings in the post(s).
 
 
 ## Tools
@@ -135,6 +145,7 @@ We will use [__p5.js__ ](https://p5js.org/) for the front end. It’s a high lev
 
 #### General
 
+- [Vera Molnar Journal](https://en.calameo.com/read/0002895619da2a1b1daf8)
 - [The coding train :rainbow:](https://thecodingtrain.com/) (course)
 - [Nature of code](https://natureofcode.com/book/) (book)
 - [Canvas demos](http://youpi.io) (demo)
