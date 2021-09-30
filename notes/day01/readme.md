@@ -2,7 +2,8 @@
 
 Welcome to the classes generative design @ HSLU / Digital Ideation. This is the main page for the class, you will find a list of resources available below as well as some other information to help with this 3 weeks workshop. It is advised to download / clone this repo at the beginning of the class and eventually keep the `master` branch updated. All assignments / exercises should be done by students on the `journal` branch or some other _"blogging platforms"_ if preferred.
 
-!['Vera Molnar Statement'](../../assets/images/vm.jpeg)
+!['Vera Molnar Statement'](images/vm.jpeg)  
+_#veramolnar sharing her artistic process and the profound evolution and revolution of #generativeart in the 1980s unknowingly creating a historic artist statement for time immortal…_  
 [> Source](https://twitter.com/michaelspalter/status/1442482576283869184)
 
 ## Schedule
@@ -53,7 +54,7 @@ Welcome to the classes generative design @ HSLU / Digital Ideation. This is the 
 
 Fifty randomly placed points all connected by straight lines.
 
-![wall drawing 118](../../assets/images/wd118.jpg)
+![wall drawing 118](images/wd118.jpg)
 
 ### John H. Conway & Michael S. Patterson: [Sprouts][url02] _(30 mns)_ 
 
@@ -61,14 +62,14 @@ The game starts by drawing any number of spots. For example 3 spots. The first p
 
 You are not allowed to draw a line which crosses another line. A spot cannot have more than three lines leading to or from it.  The idea is to make it impossible for the other player to draw a line. So the last person to draw a line is the winner.
 
-![Sprouts](../../assets/images/sprouts.png)
+![Sprouts](images/sprouts.png)
 [> Source][url02]
 
 ### Moniker: [The beach](https://conditionaldesign.org/workshops/the-beach/) _(30 mns)_
 
 Roel: "entering the beach on a sunny day you will look for an empty place and position yourself right in the middle". - A fascinating form of self organization.
 
-![beach](../../assets/images/thebeach.jpg)
+![beach](images/thebeach.jpg)
 [> Source](https://conditionaldesign.org)
 
 
@@ -76,7 +77,7 @@ Roel: "entering the beach on a sunny day you will look for an empty place and po
 
 Develop your own procedural drawing instructions based on [Sol Lewitt's work](https://massmoca.org/sol-lewitt/) or some prompts from [Conditional Design](https://conditionaldesign.org/archive). Have one or more of you peers produce a drawing from this system. 
 
-![poster](../../assets/images/poster.jpg)
+![poster](images/poster.jpg)
 [> Source](https://conditionaldesign.org)
 
 
@@ -92,13 +93,13 @@ Complete the intro and some of the tutorials from [P5.js learn page](https://p5j
 
 ### 2) Draw then code
 
-Make a simple drawing and try to reproduce it with code. 
-!['One with everything'](../../assets/images/draw_then_code.jpg)
+Make a simple drawing and try to reproduce it with code.   
+!['One with everything'](images/draw_then_code.jpg)
 
 ### 3) One with everything
 
-Draw all possible geometric shapes you can generate with your software.
-!['One with everything'](../../assets/images/one_with_everything.png)
+Draw all possible geometric shapes you can generate with your software.  
+!['One with everything'](images/one_with_everything.png)  
 [> Source](https://github.com/CodeAsCreativeMedium/exercises/tree/main/01_graphic_elements/01_one_with_everything)
 
 ### 4) Iteration + randomness 
