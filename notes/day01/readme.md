@@ -14,6 +14,7 @@ Welcome to the classes generative design @ HSLU / Digital Ideation. This is the 
 |10:45 - 11:00      | Break                                    |
 |11:00 - 11:30      | Computing without computer (part01)      |
 |11:30 - 12:00      | Computing with computer (part01)         |
+|12:00 - 13:00      | Lunch break :hamburger:                  |
 |13:00 - 14:00      | Computing without computer (part02)      |
 |14:00 - 15:00      | Computing with computer (part02)         |
 
@@ -61,19 +62,27 @@ The game starts by drawing any number of spots. For example 3 spots. The first p
 You are not allowed to draw a line which crosses another line. A spot cannot have more than three lines leading to or from it.  The idea is to make it impossible for the other player to draw a line. So the last person to draw a line is the winner.
 
 ![Sprouts](../../assets/images/sprouts.png)
+[> Source][url02]
 
 ### Moniker: [The beach](https://conditionaldesign.org/workshops/the-beach/) _(30 mns)_
 
 Roel: "entering the beach on a sunny day you will look for an empty place and position yourself right in the middle". - A fascinating form of self organization.
 
 ![beach](../../assets/images/thebeach.jpg)
+[> Source](https://conditionaldesign.org)
+
 
 ### Procedural Drawing: _(30 mns)_
 
 Develop your own procedural drawing instructions based on [Sol Lewitt's work](https://massmoca.org/sol-lewitt/) or some prompts from [Conditional Design](https://conditionaldesign.org/archive). Have one or more of you peers produce a drawing from this system. 
 
 ![poster](../../assets/images/poster.jpg)
+[> Source](https://conditionaldesign.org)
 
+
+### More...
+
+* [Thread on art done without computers](https://twitter.com/m_pf/status/1442047197214756866)
 
 ## Computing with computer
 
@@ -84,10 +93,13 @@ Complete the intro and some of the tutorials from [P5.js learn page](https://p5j
 ### 2) Draw then code
 
 Make a simple drawing and try to reproduce it with code. 
+!['One with everything'](../../assets/images/draw_then_code.jpg)
 
 ### 3) One with everything
 
 Draw all possible geometric shapes you can generate with your software.
+!['One with everything'](../../assets/images/one_with_everything.png)
+[> Source](https://github.com/CodeAsCreativeMedium/exercises/tree/main/01_graphic_elements/01_one_with_everything)
 
 ### 4) Iteration + randomness 
 

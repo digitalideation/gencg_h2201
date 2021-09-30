@@ -8,6 +8,7 @@
 |9:30 - 9:45        | Intro of the day                         |
 |9:45 - 10:00       | Sharing                                  |
 |10:00 - 12:00      | Work on assignement                      |
+|12:00 - 13:00      | Lunch break :hamburger:                  |
 |13:00 - 15:00      | Work on assignement                      |
 
 
@@ -15,27 +16,37 @@
 
 ### Brief
 
-Write some code to generate tiling pattern or textural composition. Give consideration to aesthetic issues like symetry, rhythm, color, details at multiple scales; precise balance of form and the balance between organic and geometric forms.
+Write some code to generate tiling pattern or textural composition. Give consideration to aesthetic issues like symetry, rhythm, color, details at multiple scales; precise balance of form and the balance between organic and geometric forms. The pattern should be designed so that it is infinitely tiled or extended.
 
-The pattern should be designed so that it is infinitely tiled or extended.__You must first sketch your idea on paper before working with the software.__ 
+__You must first sketch your idea on paper before working with the software.__ 
 
 ### Variations / Steps
 
 - [ ] Make a grid
-- [ ] Animate the element in your grid
-- [ ] Experiments with 2D graphic transformations (rotation, scaling, mirror)
+- [ ] Animate the elements in your grid
+- [ ] Experiments with 2D graphic transformations (rotation, scaling, mirror, offset)
 - [ ] Use nested iterations
 - [ ] Add some [easing](https://easings.net/)
 - [ ] Use a kaleidoscopic effect (you can introduce image or videos as source)
 - [ ] Make it loop
 - [ ] Export it as a GIF
+- [ ] Add states
+- [ ] Add noise / randomness
+- [ ] Make it "sketchy"
+- [ ] Take it to the 3rd dimension
+
+
+## Deliverables
+
+* Code and documentation of your process, add some live example + gifs / images.
+* Include a scan or photo of your drawings in the post
 
 
 ## More on patterns
 
 A pattern is a discernible regularity in the world or in a manmade design. As such, the elements of a pattern repeat in a predictable manner. A geometric pattern is a kind of pattern formed of geometric shapes and typically repeated like a wallpaper. 
 
-Try to experiment with different type of patterns, for example: Tessellations. Tessellation, or tiling in two dimensions, is a topic in geometry that studies how shapes, known as tiles, can be arranged to **fill a plane without any gaps, according to a given set of rules**. There are many forms of tesselation and you are invited to read some of the pages below to learn more about each of those tesselation technics:
+Try to experiment with different type of patterns, for example: Tessellations. Tessellation, or tiling in two dimensions, is a topic in geometry that studies how shapes, known as tiles, can be arranged to fill a plane without any gaps, according to a given set of rules. There are many forms of tesselation and you are invited to read some of the pages below to learn more about each of those tesselation technics:
 
 - [Tesselation](https://en.wikipedia.org/wiki/Tessellation)
 - [Truchet tiling](https://mypages.iit.edu/~krawczyk/rjkisama11.pdf)
@@ -58,8 +69,6 @@ ___
 > Check :sparkles: [Pinterest pattern board](https://www.pinterest.ch/9uill0m/generative-class/patterns/) <br> *(temp pinterest account: tmp.pin@gmail.com / TT4[bosses )* <br>
 > [Escher tesselations](https://duckduckgo.com/?q=escher+tessellations&t=ffab&iar=images&iax=images&ia=images)
 
-**✎ Going further: add offseting, states, transform your pattern, add noise / random parameters, add sketchiness, take it to the 3rd dimenssion...**
-
 
 ## ✎ Ideas for experiments (2)
 
@@ -81,23 +90,13 @@ ___
 > [10 print book](https://10print.org/)
 
 
-## Going further
-
-Pick one artists (see list from [day01](../day01) for some ideas) and start writing about him / her. Select one artwork and explain why you've picked that artwork.
-
-
-## Deliverables
-
-* Code and documentation of your process, add some live example + gifs / images.
-* Include a scan or photo of your drawings in the post
-
-
 ## References
 
 ### :pushpin: Resources
 
 - [Grids on Pinterest](https://www.pinterest.ch/9uill0m/generative-class/)
 - [Thread on Truchet tiling](https://twitter.com/golan/status/1442217873431138314)
+- [Making infinite noise loop](https://necessarydisorder.wordpress.com/2017/11/15/drawing-from-noise-and-then-making-animated-loopy-gifs-from-there/)
 - [Noise loop](https://editor.p5js.org/guma/sketches/0hvdq_lsW)
 - [Stepper](https://editor.p5js.org/guma/sketches/CEPcw70dK)
 - [Easing lib](https://github.com/IDMNYU/p5.js-func)
