@@ -4,8 +4,7 @@
 [_Allan Tannenbaum, PATTI SMITH (FUCK THE CLOCK), 1978_](https://www.modernrocksgallery.com/bands-n-s/patti-smith-fuck-clock-tannenbaum)  
 
 Singer-songwriter Patti Smith wore her declamatory T-shirt, ironically, at a performance on New Year’s Eve 1978 at the legendary music club CBGB in New York City. Smith’s shirt was a rejection of modern, time-harried life. 
-Today’s attorneys are a prime examples of being “on the clock.” Charging for their services based on the Time they spend on a client’s affair, they are pressured to account ever-accruing Time as “billable hours.” Tannenbaum, a noted photographer for more than four decades, has widely
-documented the art world, music scene, politics, show business, and nightlife.
+Today’s attorneys are a prime examples of being “on the clock.” Charging for their services based on the Time they spend on a client’s affair, they are pressured to account ever-accruing Time as “billable hours.”
 
 
 ## Schedule
