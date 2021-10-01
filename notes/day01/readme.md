@@ -62,14 +62,14 @@ The game starts by drawing any number of spots. For example 3 spots. The first p
 
 You are not allowed to draw a line which crosses another line. A spot cannot have more than three lines leading to or from it.  The idea is to make it impossible for the other player to draw a line. So the last person to draw a line is the winner.
 
-![Sprouts](images/sprouts.png)
+![Sprouts](images/sprouts.png)  
 [> Source][url02]
 
 ### Moniker: [The beach](https://conditionaldesign.org/workshops/the-beach/) _(30 mns)_
 
 Roel: "entering the beach on a sunny day you will look for an empty place and position yourself right in the middle". - A fascinating form of self organization.
 
-![beach](images/thebeach.jpg)
+![beach](images/thebeach.jpg)  
 [> Source](https://conditionaldesign.org)
 
 
@@ -77,7 +77,7 @@ Roel: "entering the beach on a sunny day you will look for an empty place and po
 
 Develop your own procedural drawing instructions based on [Sol Lewitt's work](https://massmoca.org/sol-lewitt/) or some prompts from [Conditional Design](https://conditionaldesign.org/archive). Have one or more of you peers produce a drawing from this system. 
 
-![poster](images/poster.jpg)
+![poster](images/poster.jpg)  
 [> Source](https://conditionaldesign.org)
 
 

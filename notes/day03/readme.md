@@ -56,7 +56,7 @@ In the concept of linear time there is a beginning (the past), and an end (the f
 
 Digital clocks and time lines illustrate the idea of linear time very effecively.
 
-!['Time line'](http://chaos1.hypermart.net/fullsize/artancfs.gif)
+!['Time line'](http://chaos1.hypermart.net/fullsize/artancfs.gif)  
 [_Time line of art in the ancient world - Parthenon graphics_](http://chaos1.hypermart.net/fullsize/artancfs.gif)  
 
 !['Comic book'](https://app.sophia.org/download/ckeditor%2Fpictures/2620/data/content/pe110611.gif?1309068470)
@@ -68,14 +68,13 @@ In contrast, circular, or cyclical time is a repeating process, like cycles and 
 
 Circular time nesting.
 
-!['Cyclical time break'](images/cyclical_break.png)
+!['Cyclical time break'](images/cyclical_break.png)  
 [_> source_](https://www.researchgate.net/figure/Portrayal-of-historical-experience-that-encompasses-both-linear-and-cyclical-modes-as_fig6_318292472)
 
 
 ### References
 
 The clock clock white by humans since 1982 + [A million time](https://www.humanssince1982.com/a-million-times-san-jose-2021)
-
 !['Clock Clock'](images/clock_clock.jpg)
 
 {% raw %}  
@@ -89,7 +88,6 @@ The clock clock white by humans since 1982 + [A million time](https://www.humans
 Christiaan postma explains that the starting point with his project ‘the clock’ was a personal study about form & time. the dutch designer puts together more than 150 individual clockworks and arranges them work together to become one clock.  he shows the progress of time by letting the numbers be written in words by the clockhands. reading clockwise, the time being is visible through a word and readable by the completeness of the word, 12 words from ‘one’ to ‘twelve’. the size of the clock is 1,4 by 1,4 meter.
 
 !['clock'](images/oclock20.jpg)  
-
 [_'‘0.5g min’ evolving sculpture by albin karlsson, 2007 images © designboom'_](https://www.designboom.com/design/oclock-time-design-design-time-at-triennale-design-museum-milan/)
 
 A machine in the ceiling drip 0,5 gram of wax based hot glue every minute, at the same time the machine is rotating just like a hand in an analog clock. On the floor a stalagmite shape rises during time. [Project](https://www.albinkarlsson.com/1g-min/)
@@ -104,13 +102,13 @@ A machine in the ceiling drip 0,5 gram of wax based hot glue every minute, at th
 !['clock'](images/oclock09.jpg)  
 [https://jhwilbert.com/portfolio/exquisite-clock/](https://jhwilbert.com/portfolio/exquisite-clock/)
 
-!['Beyond human time, 2020 i8 Gallery, Reykjavik Photo: Vigfus Birgisson'](images/glacier.jpg)
+!['Beyond human time, 2020 i8 Gallery, Reykjavik Photo: Vigfus Birgisson'](images/glacier.jpg)  
 [_Olafur Elliason - Beyond human time_](https://olafureliasson.net/archive/artwork/WEK110938/beyond-human-time)  
 Beyond human time, was produced using pieces of ancient glacial ice that were fished from the sea off the coast of Greenland during production of the large-scale installation Ice Watch, 2014. 
 !['Solar Moon'](images/solar_moon.jpg)
 [_Solar Noon_](https://olafureliasson.net/archive/artwork/WEK100480/solar-noon)
 
-!['Chrono Shredder'](images/chrono_shredder.jpg)
+!['Chrono Shredder'](images/chrono_shredder.jpg)  
 [_Chrono Shredder - SUSANNA HERTRICH (2020)_](http://www.susannahertrich.com/work/chrono-shredder-i-iv/)
 
 
@@ -119,7 +117,7 @@ Beyond human time, was produced using pieces of ancient glacial ice that were fi
 
 ‘time to eat’ by catalan designer martí guixé is a wall clock telling you it is time to eat by emitting the smell of cooking: 9am breakfast, 1pm cooking vegetable smell, 10pm preparing tomato sauce… – essence project lorenzo dante ferro
 
-!['Time for'](images/guixealessiblankwallclock_0.jpg)
+!['Time for'](images/guixealessiblankwallclock_0.jpg)  
 [_Time for Guixé at Milan 2010_](https://www.designindaba.com/articles/creative-work/time-guix%C3%A9-milan-2010)
 
 !['Oclock'](images/01_triennale_milan_sa101011.jpg)
@@ -136,6 +134,7 @@ Much, much more here --> [Golan Levin Lecture - Representing Time](https://githu
 {% raw %}  
 <iframe src="https://preview.p5js.org/guma/embed/yZYaRwKAz" width="100%" height="450" frameborder="no"></iframe>
 {% endraw %}  
+
 [_Simple Clock in P5.js_](https://editor.p5js.org/guma/sketches/yZYaRwKAz)
 
 
