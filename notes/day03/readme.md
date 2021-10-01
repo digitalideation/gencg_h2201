@@ -104,12 +104,12 @@ A machine in the ceiling drip 0,5 gram of wax based hot glue every minute, at th
 !['Beyond human time, 2020 i8 Gallery, Reykjavik Photo: Vigfus Birgisson'](images/glacier.jpg)  
 [_Olafur Elliason - Beyond human time_](https://olafureliasson.net/archive/artwork/WEK110938/beyond-human-time)  
 Beyond human time, was produced using pieces of ancient glacial ice that were fished from the sea off the coast of Greenland during production of the large-scale installation Ice Watch, 2014. 
+
 !['Solar Moon'](images/solar_moon.jpg)
 [_Solar Noon_](https://olafureliasson.net/archive/artwork/WEK100480/solar-noon)
 
 !['Chrono Shredder'](images/chrono_shredder.jpg)  
 [_Chrono Shredder - SUSANNA HERTRICH (2020)_](http://www.susannahertrich.com/work/chrono-shredder-i-iv/)
-
 
 !['clock'](images/oclock01.jpg)  
 [_‘time to eat’ by Marti Guixé_ ](https://www.designboom.com/design/oclock-time-design-design-time-at-triennale-design-museum-milan/)
@@ -122,8 +122,7 @@ Beyond human time, was produced using pieces of ancient glacial ice that were fi
 !['Oclock'](images/01_triennale_milan_sa101011.jpg)
 Thorunn Arnadottir’s ’Sasa Clock’ comprises painted-wood beads hung over a slowly turning carousel. A bead slips down the cord every five minutes
 
-
-Much, much more here --> [Golan Levin Lecture - Representing Time](https://github.com/golanlevin/lectures/tree/master/lecture_clock)
+And much, much more here --> [Golan Levin Lecture - Representing Time](https://github.com/golanlevin/lectures/tree/master/lecture_clock)
 
 
 ## References
