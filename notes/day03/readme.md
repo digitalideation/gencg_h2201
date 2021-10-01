@@ -58,7 +58,7 @@ Digital clocks and time lines illustrate the idea of linear time very effecively
 !['Time line'](http://chaos1.hypermart.net/fullsize/artancfs.gif)  
 [_Time line of art in the ancient world - Parthenon graphics_](http://chaos1.hypermart.net/fullsize/artancfs.gif)  
 
-!['Comic book'](https://app.sophia.org/download/ckeditor%2Fpictures/2620/data/content/pe110611.gif?1309068470)
+!['Comic book'](https://app.sophia.org/download/ckeditor%2Fpictures/2620/data/content/pe110611.gif?1309068470)  
 _Charles M. Schulz  6/11/2011  Daily comic on peanuts.com_
 
 In contrast, circular, or cyclical time is a repeating process, like cycles and seasons, that creates continuous and infinite outcomes.  Analog clocks and labryinths are good examples of circular time.
