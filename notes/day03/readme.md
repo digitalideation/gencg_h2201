@@ -131,6 +131,14 @@ Much, much more here --> [Golan Levin Lecture - Representing Time](https://githu
 
 ## References
 
+### Example
+
+{% raw %}  
+<iframe src="https://preview.p5js.org/guma/embed/yZYaRwKAz" width="100%" height="450" frameborder="no"></iframe>
+{% endraw %}  
+[_Simple Clock in P5.js_](https://editor.p5js.org/guma/sketches/yZYaRwKAz)
+
+
 ### :books: Resources
 
 * [Coding challenge - Clock](https://www.youtube.com/watch?v=E4RyStef-gY)
