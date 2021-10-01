@@ -119,7 +119,9 @@ Beyond human time, was produced using pieces of ancient glacial ice that were fi
 !['Time for'](images/guixealessiblankwallclock_0.jpg)  
 [_Time for Guixé at Milan 2010_](https://www.designindaba.com/articles/creative-work/time-guix%C3%A9-milan-2010)
 
-!['Oclock'](images/01_triennale_milan_sa101011.jpg)
+!['Oclock'](images/01_triennale_milan_sa101011.jpg)  
+_’Sasa Clock’_
+
 Thorunn Arnadottir’s ’Sasa Clock’ comprises painted-wood beads hung over a slowly turning carousel. A bead slips down the cord every five minutes
 
 And much, much more here --> [Golan Levin Lecture - Representing Time](https://github.com/golanlevin/lectures/tree/master/lecture_clock)
