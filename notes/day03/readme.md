@@ -78,7 +78,7 @@ The clock clock white by humans since 1982 + [A million time](https://www.humans
 
 {% raw %}  
 <iframe src="https://player.vimeo.com/video/52798481?h=ba2c0cd8e2&color=ffffff" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/52798481">The clock clock white by humans since 1982</a> from <a href="https://vimeo.com/humanssince1982">Humans since 1982</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/52798481">The clock clock white by humans since 1982</a> from <a href="https://vimeo.com/humanssince1982">Humans since 1982</a> on <a href="https://vimeo.com">Vimeo</a>.</p>  
 {% endraw %}  
 
 !['clock'](images/oclock22.jpg)  
@@ -93,7 +93,7 @@ A machine in the ceiling drip 0,5 gram of wax based hot glue every minute, at th
 
 {% raw %}  
 <iframe src="https://player.vimeo.com/video/606592643?h=295f4680bd&title=0&byline=0" width="640" height="427" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/606592643">9-1.mp4</a> from <a href="https://vimeo.com/albinkarlsson">Albin Karlsson</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/606592643">9-1.mp4</a> from <a href="https://vimeo.com/albinkarlsson">Albin Karlsson</a> on <a href="https://vimeo.com">Vimeo</a>.</p>  
 {% endraw %}  
 
 [Countdown](https://www.albinkarlsson.com/countdown/)
@@ -132,7 +132,7 @@ And much, much more here --> [Golan Levin Lecture - Representing Time](https://g
 ### Example
 
 {% raw %}  
-<iframe src="https://preview.p5js.org/guma/embed/yZYaRwKAz" width="100%" height="450" frameborder="no"></iframe>
+<iframe src="https://preview.p5js.org/guma/embed/yZYaRwKAz" width="100%" height="450" frameborder="no"></iframe>  
 {% endraw %}  
 
 [_Simple Clock in P5.js_](https://editor.p5js.org/guma/sketches/yZYaRwKAz)
@@ -146,3 +146,10 @@ And much, much more here --> [Golan Levin Lecture - Representing Time](https://g
 * [International Atomic Time](https://www.timeanddate.com/time/international-atomic-time.html)
 
 [^note-id1]: [CMU School of Art / IDeATe, Fall 2020 - Abstract Clock](https://courses.ideate.cmu.edu/60-212/f2020/deliverables/3-clock-due-9-16/)
+
+
+Use [this link](https://docs.google.com/forms/d/e/1FAIpQLSeyseHmxxLxGp7E1QoKKF229EcUPmk680gebUEPdmqn1AvncQ/viewform) if the form below does not work.
+
+{% raw %}  
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeyseHmxxLxGp7E1QoKKF229EcUPmk680gebUEPdmqn1AvncQ/viewform?embedded=true" width="100%" height="900" frameborder="0" marginheight="0" marginwidth="0" frameborder="no">Loading…</iframe>  
+{% endraw %}  
