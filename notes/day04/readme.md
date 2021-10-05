@@ -49,17 +49,17 @@ You do not have to draw your idea on paper first but sketching some ideas on pap
 !['Your unpredictable sameness'](images/oe_01.jpg)  
 [_Your unpredictable sameness, Studio Olafur Eliasson, 2014_](https://olafureliasson.net/archive/artwork/WEK108972/your-unpredictable-sameness#slideshow)
 
-!['OE drawing machines'](images/oe_02.jpg)
+!['OE drawing machines'](images/oe_02.jpg)  
 [_Olafur Eliasson drawing machines_](https://olafureliasson.net/tag/TEL3158/drawing-machines)
 
 
-!['Cameron Robbins wind drawing machines'](images/cr_wd.jpg)
+!['Cameron Robbins wind drawing machines'](images/cr_wd.jpg)  
 [_Cameron Robbins wind drawing machines_](http://cameronrobbins.com/wind-drawings/)
 
 The Wind Drawing Machines are installed in different locations to receive weather energy and translate it into an abstract format of ink drawings on paper.
 
 
-!['Toy Robot, 2019'](images/pt.jpg)
+!['Toy Robot, 2019'](images/pt.jpg)  
 [_Patrick Tresset - Toy Robot, 2019_](https://patricktresset.com/new/project/toy-robot-2019/)
 
 Patrick Tresset is a Brussels-based artist who, in his work, explores human traits and the aspects of human experience. His work reflects recurrent ideas such as embodiment, passing time/time passing, childhood, conformism, obsessiveness, nervousness, the need for storytelling, and mark-making. He is best known for his performative installations using robotic agents as stylized actors that make marks and for his exploration of the drawing practice using computational systems and robots. ([youtube channel](https://www.youtube.com/c/PatrickTresset/videos))
@@ -71,17 +71,17 @@ Patrick Tresset is a Brussels-based artist who, in his work, explores human trai
 
 At www.mta.me, Conductor turns the New York subway system into an interactive string instrument. Using the MTA's actual subway schedule, the piece begins in realtime by spawning trains which departed in the last minute, then continues accelerating through a 24 hour loop. The visuals are based on Massimo Vignelli's 1972 diagram. ([Alexander Chen](https://www.chenalexander.com/))
 
-!['Sloppy Forgeries'](images/sf.png)
+!['Sloppy Forgeries'](images/sf.png)  
 [_Sloppy Forgeries - Jonah Warren_](http://playfulsystems.com/sloppy-forgeries/)
 
 Sloppy Forgeries is a fast-paced, two-player local multiplayer painting game. Each player is given a mouse, a blank canvas, and a few simple paint tools. Each round, a famous painting from art history is revealed. Players race to copy the painting as quickly and accurately as possible.
 
-!['Sougwen Chung - Artefacts'](images/sw.jpg)
+!['Sougwen Chung - Artefacts'](images/sw.jpg)  
 [_Sougwen Chung - Artefacts_](https://sougwen.com/project/artefact1)
 
 Artefact 1 explores artistic co-creation and is the outcome of an improvisational drawing collaboration with a custom robotic unit linked to a recurrent neural net trained on my drawings. The contrasting colors of lines denote those marks made by the machine and my own hand.  This work is the latest in an ongoing series of Drawing Operations begun in 2014.
 
-!['Do not!'](images/doodle_penis_ai.gif)
+!['Do not!'](images/doodle_penis_ai.gif)  
 [_Do not draw a penis - Studio Moniker_](https://studiomoniker.com/projects/do-not-draw-a-penis)
 
 Do Not Draw a Penis functions as an agent to collect inappropriate doodles from people who are not willing to stay within the moral guidelines set by our social network providers.
