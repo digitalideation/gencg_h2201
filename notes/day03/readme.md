@@ -26,7 +26,6 @@ Today we'll work on building a device visualising the passing of time. Your desi
 
 While designing your clock ponder things like biological time (chronobiology), ultradian rhythms and infradian rhythms, solar and lunar cycles, celestial time, geological time, decimal time, historical time, psychological time, and subjective time. [^note-id1]
 
-
 __You must first sketch your idea on paper before working with the software.__ 
 
 
@@ -87,7 +86,7 @@ The clock clock white by humans since 1982 + [A million time](https://www.humans
 Christiaan postma explains that the starting point with his project ‘the clock’ was a personal study about form & time. the dutch designer puts together more than 150 individual clockworks and arranges them work together to become one clock.  he shows the progress of time by letting the numbers be written in words by the clockhands. reading clockwise, the time being is visible through a word and readable by the completeness of the word, 12 words from ‘one’ to ‘twelve’. the size of the clock is 1,4 by 1,4 meter.
 
 !['clock'](images/oclock20.jpg)  
-[_'‘0.5g min’ evolving sculpture by albin karlsson, 2007 images © designboom'_](https://www.designboom.com/design/oclock-time-design-design-time-at-triennale-design-museum-milan/)
+[_‘0.5g min’ evolving sculpture by albin karlsson, 2007 images © designboom_](https://www.designboom.com/design/oclock-time-design-design-time-at-triennale-design-museum-milan/)
 
 A machine in the ceiling drip 0,5 gram of wax based hot glue every minute, at the same time the machine is rotating just like a hand in an analog clock. On the floor a stalagmite shape rises during time. [Project](https://www.albinkarlsson.com/1g-min/)
 

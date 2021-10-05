@@ -17,7 +17,7 @@ Welcome to the classes generative design @ HSLU / Digital Ideation. This is the 
 - [Day03 - Clock](notes/day03)
 - [Day04 - Machines](notes/day04)
 - [Day05 - Inspiration](notes/day05)
-- [Day06 - Faces](notes/day06)
+- [Day06 - Pixels](notes/day06)
 - [Day07 - Interact](notes/day07)
 - [Day08 - Preparation](notes/day08)
 - [Day09 - Presentation](notes/day09)
@@ -25,7 +25,7 @@ Welcome to the classes generative design @ HSLU / Digital Ideation. This is the 
 
 ## Suggested themes
 
-During the 3 weeks class we will be looking at the core functions of p5.js and three.js, and some simple useful maths technics. We will experiment with shapes, patterns and agents (intelligent and non intelligent). We will then learn how color spaces are created and how to generate them dynamically. We will then adapt what we've learned and play with new concepts such as noise and random values, we will continue developing our agents and adapt them to create generative typography
+During the 3 weeks class we will be looking at the core functions of p5.js and three.js, and some simple useful maths technics. We will experiment with shapes, patterns, agents, etc... We will learn how color spaces are created and how to generate them dynamically. We will then adapt what we've learned and play with new concepts such as noise and random values.
 
 
 ## Tools
