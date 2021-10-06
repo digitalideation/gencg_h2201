@@ -16,7 +16,7 @@ Welcome to the classes generative design @ HSLU / Digital Ideation. This is the 
 - [Day02 - Grids & Iterative Patterns](notes/day02)
 - [Day03 - Clock](notes/day03)
 - [Day04 - Machines](notes/day04)
-- [Day05 - Inspiration](notes/day05)
+- [Day05 - Faces](notes/day05)
 - [Day06 - Pixels](notes/day06)
 - [Day07 - Interact](notes/day07)
 - [Day08 - Preparation](notes/day08)
