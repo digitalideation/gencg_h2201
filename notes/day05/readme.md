@@ -79,10 +79,7 @@ Mas que la Cara is a public art installation in Downtown Houston which augments 
 
 ### Example
 
-{% raw %}  
-<iframe src="https://preview.p5js.org/guma/embed/IAlxLpyRd" width="100%" height="450" frameborder="no"></iframe>  
-{% endraw %}  
-
+![Ig](images/facemesh.jpg)  
 [Mediapipe Facemesh in P5.js_](https://editor.p5js.org/guma/sketches/IAlxLpyRd)
 
 
