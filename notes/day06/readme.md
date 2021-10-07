@@ -8,7 +8,7 @@
 |9:30 - 9:45        | Intro of the day                         |
 |9:45 - 10:00       | Sharing                                  |
 |10:00 - 12:00      | Work on assignement                      |
-|12:00 - 13:00      | Lunch break :fried_shrimp:                      |
+|12:00 - 13:00      | Lunch break :beer:                       |
 |13:00 - 15:00      | Work on assignement                      |
 
 
@@ -81,7 +81,7 @@ _:arrow_up: KIM ASENDORF - Misc_
 [_Kensuke Koike 小池健輔_](https://twitter.com/k_koi/status/1344428323049504769)  
 
 > You will find code examples in the book [Generative Gestaltung (P_4_...)](http://www.generative-gestaltung.de/2) <br>
-> Check :sparkles: [Pinterest Portrait board](https://www.pinterest.ch/9uill0m/generative-class/portrait/) <br> *(temp pinterest account: tmp.pin@gmail.com / TT4[bosses )* <br>
+> Check :sparkles: [Pinterest Portrait board](https://www.pinterest.ch/9uill0m/generative-class/portrait/) <br> *(username: tmp.pin@gmail.com password: TT4[bosses )* <br>
 > [Pinterest class board](https://www.pinterest.ch/9uill0m/generative-class/)
 
 
