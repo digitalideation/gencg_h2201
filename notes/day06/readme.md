@@ -53,10 +53,8 @@ Created by Matthieu Savary, Pixel is Data is not your ordinary photography app f
 {% raw %}  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qhdG7OltXnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 {% endraw %}  
-[_IRIS - Hybe   _](https://www.creativeapplications.net/processing/iris-by-hybe-new-kind-of-monochrome-lcd/)  
+[_IRIS - Hybe_](https://www.creativeapplications.net/processing/iris-by-hybe-new-kind-of-monochrome-lcd/)  
 Created by Korean collective HYBE, IRIS is a media canvas with matrix of conventional information display technology, that is a monochrome LCD.Through the phased opening and closing of circular black liquid crystal, IRIS can create various patterns and control the amount (size) of passing lights.
-
-
 
 ![](images/100000000_03.png)  
 [_100.000.000 Stolen Pixels_](https://www.creativeapplications.net/scripts/100-000-000-stolen-pixels-scripts/)  
