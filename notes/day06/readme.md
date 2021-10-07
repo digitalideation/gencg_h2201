@@ -16,7 +16,7 @@
 
 ### Brief
 
-Pixels are your materials for today's theme. Use them as a starting point to create an original design. You can use their color values, position and other parameters to create an original work. What if pixels had a different shapes? Or where arrange differently than in a nicely organised grid? What if they could be represented in a completely different form? Think carefully about the relationships between your pixel concept and the image you choose to transform. [^note-id1]
+Pixels are your materials for today. Use them as a starting point to create an original design. You can use their color values, position and other parameters in order to create an original work. What if pixels had different shapes? Or were arrange differently than in a nicely organised grid? What if they could be represented in a completely different form? Think carefully about the relationships between your pixel concept and the image you choose to transform. [^note-id1]
 
 ### Variations / Steps [^note-id1]
 
@@ -24,6 +24,7 @@ Pixels are your materials for today's theme. Use them as a starting point to cre
 - [ ] Make pixels as brushstrokes
 - [ ] Use video or webcam
 - [ ] Play with compression, could you invent your own kind of compression? 
+
 
 ## Deliverables
 
