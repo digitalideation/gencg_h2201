@@ -38,8 +38,7 @@ __You must first sketch your idea on paper before working with the software.__
 ### References
 
 !['Weird Faces - Matthias Dörfelt'](images/weird_faces.jpg)  
-[_Weird Faces - Matthias Dörfelt_](https://www.mokafolio.de/works/Weird-Faces)
-
+[_Weird Faces - Matthias Dörfelt_](https://www.creativeapplications.net/featured/weird-faces-study-by-matthias-dorfelt-using-paperjs/)
 
 Computer generated images have a certain aesthetics to them that make them immediately recognizable as such by the trained eye. Weird Faces is an attempt to combine my old interest in illustration with programing, to create something procedural that has a truly individual artistic touch to it and is not instantly recognizable as a generative art piece. Even though, the faces look hand-drawn, they are entirely expressed by algorithmic rules. Each face is random, each face is unique. Still, they look similar to my actual hand drawn faces.
 
@@ -65,15 +64,32 @@ Pareidolia is the tendency for perception to impose a meaningful interpretation 
 
 Mas que la Cara is a public art installation in Downtown Houston which augments participants faces with dynamically generated masks that respond to their movements.
 
+!['Face Trade'](images/face_trade.jpg)  
+[_Face Trade - Matthias Dörfelt_](https://www.creativeapplications.net/c/face-trade-art-vending-machine-that-trades-mugshots-for-free-portraits/)  
 
-> Check :sparkles: [Pinterest Face Generator board](https://www.pinterest.ch/9uill0m/generative-class/dawing-machines/) <br> *(temp pinterest account: tmp.pin@gmail.com / TT4[bosses )* <br>
-> [Pinterest drawbots](https://www.pinterest.co.uk/gonzillaaa/drawbots/)
+Face Trade is an Art Vending Machine created by Matthias Dörfelt that dispenses unique prints of computer generated face drawings. Instead of paying with money, buyers trade a mugshot that is taken on the spot in order to be permanently stored in the Ethereum Blockchain, consequently turning the transaction into a semi-permanent Face Swap.
+
+!['Type Face'](images/typeface01.png)  
+[_Type Face -Mary Huang_](http://www.creativeapplications.net/processing/typeface-processing/)  
+
+Created by Mary Huang, TYPEFACE is a study of facial recognition and type design, creating a typeface that corresponds to each individual, like a typographic portrait. Somewhat similar to LAIKA project – interactive typeface, the challenge here were the limitations of geometric type system, being able to allow for a great amount of variation while maintaining a general level of quality in the letters.
+
+{% raw %}  
+<iframe src="https://player.vimeo.com/video/69694262?h=edd986e6e2" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/69694262">Drawing faces instructed by facial recognition</a> from <a href="https://vimeo.com/user8828003">M Plummer-Fernandez</a> on <a href="https://vimeo.com">Vimeo</a>.</p>  
+{% endraw %}  
+
+!['Deep Privacy'](images/deep_privacy.gif)  
+[_Deep Privacy - Hukkelas, Hakon and Mester, Rudolf and Lindseth, Frank_](https://github.com/hukkelas/DeepPrivacy)
+
+
 
 {% raw %}  
 <iframe src="https://player.vimeo.com/video/29348533?h=5c0cc36b58&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/29348533">Face Substitution</a> from <a href="https://vimeo.com/kylemcdonald">Kyle McDonald</a> on <a href="https://vimeo.com">Vimeo</a>.</p>  
 {% endraw %}  
 
+See also other [similar](https://www.creativeapplications.net/sound/faceshift-studio-experiments-by-kyle-mcdonald/) / [experiments](https://www.creativeapplications.net/openframeworks/scramble-suit-face-tracking-openframeworks/) by Kyle
 
 ## References
 
