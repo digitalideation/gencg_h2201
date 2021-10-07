@@ -89,9 +89,6 @@ ___
 > [#10print on Twitter](https://twitter.com/hashtag/10print) <br>
 > [10 print book](https://10print.org/)
 
-
-## References
-
 ### :pushpin: Resources
 
 - [Grids on Pinterest](https://www.pinterest.ch/9uill0m/generative-class/)

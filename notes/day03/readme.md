@@ -125,9 +125,6 @@ Thorunn Arnadottir’s ’Sasa Clock’ comprises painted-wood beads hung over a
 
 And much, much more here --> [Golan Levin Lecture - Representing Time](https://github.com/golanlevin/lectures/tree/master/lecture_clock)
 
-
-## References
-
 ### Example
 
 {% raw %}  
@@ -135,7 +132,6 @@ And much, much more here --> [Golan Levin Lecture - Representing Time](https://g
 {% endraw %}  
 
 [_Simple Clock in P5.js_](https://editor.p5js.org/guma/sketches/yZYaRwKAz)
-
 
 ### :books: Resources
 

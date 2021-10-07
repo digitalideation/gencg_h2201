@@ -1,5 +1,4 @@
-# Day 04
-
+# Day 05
 
 
 ## Schedule
@@ -83,7 +82,6 @@ Created by Mary Huang, TYPEFACE is a study of facial recognition and type design
 [_Deep Privacy - Hukkelas, Hakon and Mester, Rudolf and Lindseth, Frank_](https://github.com/hukkelas/DeepPrivacy)
 
 
-
 {% raw %}  
 <iframe src="https://player.vimeo.com/video/29348533?h=5c0cc36b58&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/29348533">Face Substitution</a> from <a href="https://vimeo.com/kylemcdonald">Kyle McDonald</a> on <a href="https://vimeo.com">Vimeo</a>.</p>  
@@ -91,17 +89,9 @@ Created by Mary Huang, TYPEFACE is a study of facial recognition and type design
 
 See also other [similar](https://www.creativeapplications.net/sound/faceshift-studio-experiments-by-kyle-mcdonald/) / [experiments](https://www.creativeapplications.net/openframeworks/scramble-suit-face-tracking-openframeworks/) by Kyle
 
-## References
-
 ### Example
 
 ![Ig](images/facemesh.jpg)  
-[Mediapipe Facemesh in P5.js_](https://editor.p5js.org/guma/sketches/IAlxLpyRd)
-
-
-### :books: Resources
-
-* []()
-
+[Mediapipe Facemesh in P5.js](https://editor.p5js.org/guma/sketches/IAlxLpyRd)
 
 [^note-id1]: [Code as Creative Medium - Tega Brain / Golan Levin](https://mitpress.mit.edu/books/code-creative-medium)

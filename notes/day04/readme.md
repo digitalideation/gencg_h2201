@@ -1,7 +1,6 @@
 # Day 04
 
 
-
 ## Schedule
 
 |Time               |Desc                                      |
@@ -34,6 +33,7 @@ You do not have to draw your idea on paper first but sketching some ideas on pap
     - etc...
 - [ ] Make a tool that functions critically. For instance that rejects the tech imperative of accuracy, realism, utility and instead focus on expressivity, irreproducibility, etc...
 
+
 ## Deliverables
 
 * 3 drawings
@@ -44,7 +44,6 @@ You do not have to draw your idea on paper first but sketching some ideas on pap
 ## More on drawing machines
 
 ### References
-
 
 !['Your unpredictable sameness'](images/oe_01.jpg)  
 [_Your unpredictable sameness, Studio Olafur Eliasson, 2014_](https://olafureliasson.net/archive/artwork/WEK108972/your-unpredictable-sameness#slideshow)
@@ -57,7 +56,6 @@ You do not have to draw your idea on paper first but sketching some ideas on pap
 [_Cameron Robbins wind drawing machines_](http://cameronrobbins.com/wind-drawings/)
 
 The Wind Drawing Machines are installed in different locations to receive weather energy and translate it into an abstract format of ink drawings on paper.
-
 
 !['Toy Robot, 2019'](images/pt.jpg)  
 [_Patrick Tresset - Toy Robot, 2019_](https://patricktresset.com/new/project/toy-robot-2019/)
@@ -90,23 +88,19 @@ Do Not Draw a Penis functions as an agent to collect inappropriate doodles from 
 > Check :sparkles: [Pinterest Drawing machine board](https://www.pinterest.ch/9uill0m/generative-class/dawing-machines/) <br> *(temp pinterest account: tmp.pin@gmail.com / TT4[bosses )* <br>
 > [Pinterest drawbots](https://www.pinterest.co.uk/gonzillaaa/drawbots/)
 
-
-## References
-
 ### Example
 
 {% raw %}  
 <iframe src="https://preview.p5js.org/guma/embed/gJAZwbKlG" width="100%" height="450" frameborder="no"></iframe>  
 {% endraw %}  
 
-[Lisajou in P5.js_](https://editor.p5js.org/guma/sketches/gJAZwbKlG)
+[Lisajou in P5.js](https://editor.p5js.org/guma/sketches/gJAZwbKlG)
 
 {% raw %}  
 <iframe src="https://preview.p5js.org/guma/embed/E4Qwdkb4Z" width="100%" height="450" frameborder="no"></iframe>  
 {% endraw %}  
 
 [Lerp and delay in P5.js](https://editor.p5js.org/guma/sketches/E4Qwdkb4Z)
-
 
 ### :books: Resources
 
