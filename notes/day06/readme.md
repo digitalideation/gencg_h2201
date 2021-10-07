@@ -36,7 +36,7 @@ Pixels are your materials for today's theme. Use them as a starting point to cre
 ### References
 
 1 --> Search pixels projects on [CAN](https://www.creativeapplications.net/) _(username + password were sent on Slack yesterday)_  
-2 --> Search fyprocessing for pixels projects, a __LOT__ of cool examples there :arrow_down:  
+2 --> Search [fyprocessing](https://fyprocessing.tumblr.com) for pixels projects, a lot of cool examples there :arrow_down:  
 [![](images/fyprocessing.gif)](https://fyprocessing.tumblr.com/search/pixels)
 
 
@@ -50,10 +50,10 @@ Pixels are your materials for today's theme. Use them as a starting point to cre
 
 Created by Matthieu Savary, Pixel is Data is not your ordinary photography app for the iOS. Instead of dealing with pixels as you’d expect, all in order to represent the scene you have just photographed, Pixel is Data uses the image data and shows it using various parameter to reorder the pixels. They can be arranged either the “right” way – their photographic order, or using the RGB components of each pixel to determine priority.
 
-<% raw %>  
+{% raw %}  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qhdG7OltXnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-<% endraw %>  
-[_IRIS_](https://www.creativeapplications.net/processing/iris-by-hybe-new-kind-of-monochrome-lcd/)  
+{% endraw %}  
+[_IRIS - Hybe   _](https://www.creativeapplications.net/processing/iris-by-hybe-new-kind-of-monochrome-lcd/)  
 Created by Korean collective HYBE, IRIS is a media canvas with matrix of conventional information display technology, that is a monochrome LCD.Through the phased opening and closing of circular black liquid crystal, IRIS can create various patterns and control the amount (size) of passing lights.
 
 
@@ -69,9 +69,9 @@ Created by Korean collective HYBE, IRIS is a media canvas with matrix of convent
 ![](images/img.jpg)  
 _:arrow_up: KIM ASENDORF - Misc_  
 
-<% raw %>  
+{% raw %}  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-o-p8TAu4aE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-<% endraw %>  
+{% endraw %}  
 
 [![](images/pin.jpg)](https://www.pinterest.ch/pin/574771971185935183/)  
 [![](images/tmblr.jpg)](https://iindex.tumblr.com/post/147993827677)  
@@ -88,7 +88,7 @@ _:arrow_up: KIM ASENDORF - Misc_
 ### Examples
 
 {% raw %}  
-<p class="codepen" data-height="300" data-theme-id="light" data-default-tab="js,result" data-slug-hash="LggyKa" data-user="gu-ma" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+<p class="codepen" data-height="500" data-theme-id="light" data-default-tab="js,result" data-slug-hash="LggyKa" data-user="gu-ma" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/gu-ma/pen/LggyKa">
   Demo 02</a> by G. (<a href="https://codepen.io/gu-ma">@gu-ma</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
