@@ -23,8 +23,8 @@ Think back to what we have done so far:
 
 ## Exit ticket
 
-Use [this link](https://forms.gle/jTTMBBcCiZU2yrm59) if the form does not show up below :arrow_down:
+Use [this link](https://forms.gle/jTTMBBcCiZU2yrm59) if the form does not show up below
 
 {% raw %}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd1MccjZHi6OW4f2Y2bxZVEu_gJJl1R7U2pNzvsZ1TYaX-jdw/viewform?embedded=true" width="100%" height="3749" frameborder="0" marginheight="0" marginwidth="0" frameborder="no">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd1MccjZHi6OW4f2Y2bxZVEu_gJJl1R7U2pNzvsZ1TYaX-jdw/viewform?embedded=true" width="100%" height="3850px" frameborder="0" marginheight="0" marginwidth="0" frameborder="no">Loading…</iframe>
 {% endraw %}

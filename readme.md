@@ -21,7 +21,7 @@ Welcome to the classes generative design @ HSLU / Digital Ideation. This is the 
 - [Day07 - Pixels](notes/day07)
 - Day08 - Interact
 - [Day09 - Reflect / Collect / Prepare](notes/day09/)
-- [Day10 - Presentation](notes/day09)
+- [Day10 - Presentation](notes/day10)
 
 
 ## Suggested themes

@@ -19,12 +19,3 @@ Think back to what we have done so far:
     * Is there similar artworks / artists that inspired you?
     * Can you develop your concept? What would you like to create next?
 * Experiment more
-
-
-## Exit ticket
-
-Use [this link](https://forms.gle/jTTMBBcCiZU2yrm59) if the form does not show up below :arrow_down:
-
-{% raw %}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd1MccjZHi6OW4f2Y2bxZVEu_gJJl1R7U2pNzvsZ1TYaX-jdw/viewform?embedded=true" width="100%" height="900" frameborder="0" marginheight="0" marginwidth="0" frameborder="no">Loading…</iframe>
-{% endraw %}
