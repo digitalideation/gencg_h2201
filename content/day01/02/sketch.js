@@ -1,117 +1,71 @@
-// Based on the code P_2_0_03.pde from
-// Generative Gestaltung, ISBN: 978-3-87439-759-9
+let canvas, video;
 
-// Global var
-let p = false;
-let fillColor, canvas;
-
+// Default P5 setup function
 function setup() {
-    // Canvas setup
-    canvas = createCanvas(windowWidth, windowHeight);
-
-    // Detect screen density (retina)
-    var density = displayDensity();
-    pixelDensity(density);
-
-    // Colors and drawing modes
-    colorMode(HSL, 360, 100, 100, 100);
-    background(360);
-    fillColor = color(0, 10);
-    smooth();
+  canvas = createCanvas(windowWidth, windowHeight);
+  video = createCapture(VIDEO);
+  video.hide();
 }
 
+// Default P5 draw loop function
 function draw() {
-
-    smooth();
-    noFill();
-
-    switch (options.color) {
-        case 1:
-            fillColor = color(0, 50, 50, 10);
-            break;
-        case 2:
-            fillColor = color(192, 100, 64, 10);
-            break;
-        case 3:
-            fillColor = color(52, 100, 71, 10);
-            break;
-    }
-
-    if (p) {
-
-        push();
-
-            translate(width / 2, height / 2);
-
-            const circleResolution = toInt(map(mouseY + 100, 0, height, 2, 10));
-            const radius = mouseX - width / 2 + 0.5;
-            const angle = TWO_PI / circleResolution;
-
-            strokeWeight(2);
-            fill(fillColor);
-
-            beginShape();
-
-                for (i = 0; i <= circleResolution; i++) {
-                    var x = 0 + cos(angle * i) * radius;
-                    var y = 0 + sin(angle * i) * radius;
-                    vertex(x, y);
-                }
-
-            endShape();
-
-        pop();
-    }
-}
-
-function mousePressed() {
-    p = true;
-}
-
-function mouseReleased() {
-    p = false;
+  drawImage(video);
 }
 
 function keyPressed() {
-
-    // Clear sketch
-    if (keyCode === 32) background(255); // 32 = SPACE BAR
-
-    if (key == "s" || key == "S") saveThumb(650, 350);
-
-    switch (key) {
-        case "1":
-            options.color = 1;
-            break;
-        case "2":
-            options.color = 2;
-            break;
-        case "3":
-            options.color = 3;
-            break;
-    }
-
+  if (key == "s" || key == "S") saveImage(width, height);
 }
 
 // Tools
 
-// resize canvas when the window is resized
-function windowResized() {
-    resizeCanvas(windowWidth, windowHeight, false);
+// Make sketch full screen
+function goFullScreen() {
+  let isFullScreen = Boolean(fullscreen());
+  fullscreen(!isFullScreen);
 }
 
-// Int conversion
-function toInt(value) {
-    return ~~value;
+// Resize canvas when the window is resized
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight, false);
+}
+
+// Sketch is double clicked
+function doubleClicked() {
+  goFullScreen();
 }
 
 // Timestamp
 function timestamp() {
-    return Date.now();
+  return Date.now();
 }
 
 // Thumb
-function saveThumb(w, h) {
-    let img = get(width / 2 - w / 2, height / 2 - h / 2, w, h);
-    save(img, "thumb.jpg");
+function saveImage(w, h) {
+  let img = get(width / 2 - w / 2, height / 2 - h / 2, w, h);
+  save(img, `screenshot-${timestamp()}.jpg`);
+}
+
+// Draw centered full page image
+function drawImage(img) {
+  // var
+  let imgWidth = width;
+  let imgHeight = height;
+  let imgPosX = 0;
+  let imgPosY = 0;
+
+  // Calculate aspect ratios
+  const imgAspectRatio = img.width / img.height;
+  const sketchAspectRatio = width / height;
+
+  // Calculate img size and position
+  if (sketchAspectRatio >= imgAspectRatio) {
+    imgHeight = (img.height * width) / img.width;
+    imgPosY = -(imgHeight - height) / 2;
+  } else {
+    imgWidth = (img.width * height) / img.height;
+    imgPosX = -(imgWidth - width) / 2;
+  }
+
+  // Draw image
+  image(img, imgPosX, imgPosY, imgWidth, imgHeight);
 }
