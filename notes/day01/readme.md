@@ -206,7 +206,7 @@ We will use [__p5.js__ ](https://p5js.org/) for the front end. It’s a high lev
 - [History](http://www.verostko.com/algorist.html)
 
 
-[url00]: https://digitalideation.github.io/gencg_h2101/slides/intro.html
-[url01]: https://digitalideation.github.io/gencg_h2101/slides/history.html
+[url00]: https://digitalideation.github.io/gencg_h2201/slides/intro.html
+[url01]: https://digitalideation.github.io/gencg_h2201/slides/history.html
 [url02]: https://nrich.maths.org/2413
 [url03]: https://jessicacarnegie.com/sol-lewitt-wall-drawing-118

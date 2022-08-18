@@ -141,10 +141,3 @@ And much, much more here --> [Golan Levin Lecture - Representing Time](https://g
 * [International Atomic Time](https://www.timeanddate.com/time/international-atomic-time.html)
 
 [^note-id1]: [CMU School of Art / IDeATe, Fall 2020 - Abstract Clock](https://courses.ideate.cmu.edu/60-212/f2020/deliverables/3-clock-due-9-16/)
-
-
-Use [this link](https://docs.google.com/forms/d/e/1FAIpQLSeyseHmxxLxGp7E1QoKKF229EcUPmk680gebUEPdmqn1AvncQ/viewform) if the form below does not work.
-
-{% raw %}  
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeyseHmxxLxGp7E1QoKKF229EcUPmk680gebUEPdmqn1AvncQ/viewform?embedded=true" width="100%" height="3749" frameborder="0" marginheight="0" marginwidth="0" frameborder="no">Loading…</iframe>  
-{% endraw %}  

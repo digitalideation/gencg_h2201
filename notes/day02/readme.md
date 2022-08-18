@@ -99,7 +99,7 @@ ___
 - [Stepper](https://editor.p5js.org/guma/sketches/CEPcw70dK)
 - [Easing lib](https://github.com/IDMNYU/p5.js-func)
 
-[url00]: https://digitalideation.github.io/gencg_h2101/slides/intro.html
-[url01]: https://digitalideation.github.io/gencg_h2101/slides/history.html
+[url00]: https://digitalideation.github.io/gencg_h2201/slides/intro.html
+[url01]: https://digitalideation.github.io/gencg_h2201/slides/history.html
 [url02]: https://nrich.maths.org/2413
 [url03]: https://jessicacarnegie.com/sol-lewitt-wall-drawing-118

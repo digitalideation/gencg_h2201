@@ -1,9 +1,9 @@
-# Generative Computer Graphics - Winter 2021
+# Generative Computer Graphics - Fall 2022
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/webslides/webslides.svg?style=social)](https://twitter.com/digideation)
 
-[★★★ This repository is published here ★★★](https://digitalideation.github.io/gencg_h2101/)
+[★★★ This repository is published here ★★★](https://digitalideation.github.io/gencg_h2201/)
 
 ## Intro
 
@@ -16,16 +16,17 @@ Welcome to the classes generative design @ HSLU / Digital Ideation. This is the 
 - [Day02 - Grids & Iterative Patterns](notes/day02)
 - [Day03 - Clock](notes/day03)
 - [Day04 - Machines](notes/day04)
-- [Day05 - Faces](notes/day05)
-- [Day06 - Pixels](notes/day06)
-- [Day07 - Interact](notes/day07)
-- [Day08 - Preparation](notes/day08)
-- [Day09 - Presentation](notes/day09)
+- [Day05 - Reflect / Collect / Prepare](notes/day05/)
+- [Day06 - Faces](notes/day06)
+- [Day07 - Pixels](notes/day07)
+- Day08 - Interact
+- [Day09 - Reflect / Collect / Prepare](notes/day09/)
+- [Day10 - Presentation](notes/day09)
 
 
 ## Suggested themes
 
-During the 3 weeks class we will be looking at the core functions of p5.js and three.js, and some simple useful maths technics. We will experiment with shapes, patterns, agents, etc... We will learn how color spaces are created and how to generate them dynamically. We will then adapt what we've learned and play with new concepts such as noise and random values.
+During the 2 weeks class we will be looking at the core functions of p5.js and three.js, and some simple useful maths technics. We will experiment with shapes, patterns, agents, etc... We will learn how color spaces are created and how to generate them dynamically. We will then adapt what we've learned and play with new concepts such as noise and random values.
 
 
 ## Tools
@@ -37,7 +38,18 @@ During the 3 weeks class we will be looking at the core functions of p5.js and t
 - :computer: [Codepen](https://codepen.io/)
 
 
-## Evaluation
+## Class
+
+### Learning objectives:
+
+* Learn techniques of "generative art"
+* Get to know the history and artists
+* Document and communicate your ideas
+
+### Goals:
+
+* Create original artwork(s)
+* Write a journal describing your journey 
 
 ### Evaluation criteria:
 
